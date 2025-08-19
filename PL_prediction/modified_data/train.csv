@@ -1,0 +1,3001 @@
+home_team,away_team,elo_diff,h2h_index,result
+Arsenal,West Ham,243,1.68,H
+West Ham,Fulham,-32,2.08,D
+Fulham,Leeds,60,2.73,D
+Brentford,Sunderland,264,6.74,H
+Brentford,Tottenham,37,1.12,D
+Burnley,Brighton,-97,-1.05,D
+Arsenal,Man United,194,4.98,A
+Fulham,Brentford,-29,-0.34,H
+Aston Villa,Everton,79,0.11,A
+Arsenal,Wolves,257,10.64,H
+Forest,Brighton,-24,-4.8,D
+Sunderland,Forest,-256,-3.11,A
+Tottenham,Liverpool,-219,-6.56,D
+West Ham,Tottenham,-24,6.44,A
+Tottenham,Bournemouth,-34,-4.63,A
+West Ham,Bournemouth,-58,-4.94,A
+Forest,Everton,9,-3.7,A
+Man City,Aston Villa,87,4.22,D
+Wolves,Man United,-63,-6.42,D
+Bournemouth,Tottenham,34,-0.73,A
+Forest,Crystal Palace,-32,-9.09,H
+Brighton,Man City,-133,-3.3,A
+Chelsea,Brighton,76,-0.53,D
+Leeds,Chelsea,-181,-11.37,A
+West Ham,Brighton,-77,3.22,H
+Everton,Wolves,58,-3.81,H
+Brentford,Man City,-149,-1.49,H
+Wolves,Tottenham,-38,-3.37,D
+Forest,Aston Villa,-70,5.04,H
+Brentford,Burnley,81,4.17,H
+Bournemouth,Tottenham,34,-3.36,H
+Aston Villa,Newcastle,4,-3.59,D
+Arsenal,Man United,194,7.3,H
+Man United,Man City,-161,-3.89,A
+Burnley,Arsenal,-263,-3.61,H
+Arsenal,Sunderland,446,8.63,H
+Burnley,Wolves,-6,-3.2,H
+Wolves,Chelsea,-167,-4.74,A
+Newcastle,Everton,75,5.28,H
+Everton,Chelsea,-109,1.7,D
+Chelsea,Brighton,76,0.47,H
+West Ham,Newcastle,-119,-5.03,D
+Tottenham,Crystal Palace,-61,-8.75,H
+Brighton,Forest,24,-3.51,D
+Arsenal,Chelsea,90,3.0,H
+Sunderland,Burnley,-183,-5.23,A
+Brentford,Tottenham,37,0.85,H
+Burnley,West Ham,-20,3.56,A
+Fulham,Chelsea,-121,-7.56,D
+West Ham,Tottenham,-24,-1.42,H
+West Ham,Wolves,14,1.17,H
+Chelsea,Man United,104,0.14,H
+Brighton,West Ham,77,7.59,H
+Bournemouth,Brighton,-19,3.35,A
+Bournemouth,West Ham,58,2.02,D
+Liverpool,Bournemouth,185,12.68,H
+Forest,Wolves,67,-4.69,H
+Chelsea,Man City,-57,-1.15,A
+Tottenham,Brighton,-53,-0.1,H
+Fulham,Newcastle,-87,-5.33,D
+Leeds,Aston Villa,-151,-1.5,A
+Tottenham,Crystal Palace,-61,-6.22,D
+Brighton,Bournemouth,19,3.24,H
+Sunderland,Man City,-413,-2.74,H
+Brentford,Tottenham,37,1.64,D
+Crystal Palace,Man United,36,-6.52,H
+Leeds,Wolves,-14,-4.22,D
+Brighton,Tottenham,53,3.83,H
+Arsenal,Man City,33,0.58,H
+Bournemouth,Arsenal,-185,-13.14,H
+West Ham,Brentford,-61,3.18,A
+Chelsea,Bournemouth,95,3.27,H
+Bournemouth,Aston Villa,-65,-5.5,A
+Man City,West Ham,210,7.41,H
+Fulham,Man United,-17,-3.3,H
+Bournemouth,Tottenham,34,-2.08,D
+Crystal Palace,Man City,-125,-2.03,D
+Aston Villa,Wolves,137,9.0,H
+Man United,Aston Villa,-74,3.98,A
+Fulham,Brentford,-29,0.86,A
+Leeds,Brentford,-89,-1.14,A
+Brentford,Wolves,75,4.62,D
+Chelsea,Newcastle,34,-4.01,D
+Wolves,Aston Villa,-137,-0.54,A
+Everton,Crystal Palace,-41,-3.55,H
+Tottenham,Brighton,-53,0.49,A
+Arsenal,Chelsea,90,1.68,A
+Crystal Palace,Chelsea,-68,1.01,H
+West Ham,Aston Villa,-123,-1.81,A
+Wolves,Bournemouth,-72,-14.04,A
+Brentford,Crystal Palace,-24,0.24,D
+Wolves,Brighton,-91,1.26,A
+Wolves,Tottenham,-38,0.65,H
+Brighton,Aston Villa,-46,-1.77,H
+Burnley,Leeds,8,6.81,H
+Newcastle,West Ham,119,5.12,H
+Aston Villa,Chelsea,-30,1.3,H
+Fulham,Crystal Palace,-53,2.87,A
+Everton,Chelsea,-109,-0.6,H
+Man City,Newcastle,91,-0.54,H
+Wolves,Brighton,-91,-11.93,A
+Chelsea,Man City,-57,-2.75,H
+Wolves,Liverpool,-257,-2.75,A
+Liverpool,Brentford,182,0.92,H
+West Ham,Tottenham,-24,2.73,A
+West Ham,Crystal Palace,-85,-1.86,A
+West Ham,Burnley,20,5.65,H
+Fulham,Brighton,-45,-2.52,H
+Bournemouth,Leeds,86,3.94,H
+Tottenham,Aston Villa,-99,-1.27,A
+Newcastle,Forest,66,7.62,D
+West Ham,Aston Villa,-123,-8.54,D
+Man United,Arsenal,-194,-4.27,H
+Bournemouth,Leeds,86,5.88,A
+Forest,Brighton,-24,5.82,H
+Man United,Bournemouth,-9,0.78,D
+Liverpool,Everton,199,1.31,D
+Man City,Everton,166,5.93,H
+Aston Villa,Liverpool,-120,0.69,D
+Man City,Burnley,230,1.28,H
+Brentford,Everton,17,1.75,H
+Fulham,Sunderland,235,11.16,A
+Fulham,Bournemouth,-26,7.17,D
+Bournemouth,Everton,14,3.18,A
+Burnley,Brentford,-81,-1.39,D
+Man United,Burnley,69,2.14,H
+Arsenal,Wolves,257,7.06,H
+West Ham,Leeds,28,0.37,D
+Man United,Forest,-4,0.7,H
+Everton,West Ham,44,-2.92,H
+Man United,Brighton,-28,4.77,D
+Man United,Bournemouth,-9,-4.83,A
+Arsenal,West Ham,243,1.08,H
+Man United,Arsenal,-194,-5.3,A
+West Ham,Tottenham,-24,7.49,H
+Crystal Palace,Liverpool,-158,-3.79,H
+Everton,Man United,-5,-2.76,H
+Liverpool,Bournemouth,185,0.16,D
+Crystal Palace,Bournemouth,27,7.04,H
+Brentford,Bournemouth,3,-11.17,D
+Sunderland,Bournemouth,-261,-7.91,H
+Aston Villa,Brentford,62,12.14,D
+Newcastle,Bournemouth,61,4.46,D
+Brentford,Man United,12,-4.24,H
+Sunderland,West Ham,-203,-3.52,A
+Burnley,Man United,-69,-0.74,H
+Liverpool,Everton,199,7.52,H
+Aston Villa,Wolves,137,9.85,H
+Wolves,Sunderland,189,3.95,D
+Arsenal,Man City,33,-1.67,H
+Burnley,Tottenham,-44,1.62,D
+Newcastle,Aston Villa,-4,-2.85,H
+Leeds,Chelsea,-181,-8.78,A
+Newcastle,West Ham,119,-3.16,D
+Brentford,Arsenal,-182,-10.15,A
+Fulham,Wolves,46,-2.68,D
+Man City,West Ham,210,0.43,D
+Man United,Sunderland,252,7.95,H
+Forest,Fulham,21,-4.48,H
+West Ham,Burnley,20,-11.88,H
+Sunderland,Man City,-413,-12.31,A
+Fulham,Burnley,52,-1.12,H
+Brentford,Chelsea,-92,-3.74,A
+Brentford,Crystal Palace,-24,5.36,H
+Brentford,Man City,-149,-4.46,A
+Wolves,Brentford,-75,1.34,H
+Crystal Palace,Tottenham,61,0.82,A
+Chelsea,Newcastle,34,0.84,D
+Crystal Palace,Wolves,99,-1.46,H
+Liverpool,Everton,199,2.25,D
+Man City,Everton,166,-0.88,D
+Arsenal,Leeds,271,3.66,H
+West Ham,Brentford,-61,-2.44,H
+Tottenham,Crystal Palace,-61,-4.68,A
+Fulham,Sunderland,235,10.4,H
+Bournemouth,Man United,9,1.98,H
+Tottenham,Everton,-20,-2.19,A
+Chelsea,Newcastle,34,1.76,H
+Leeds,Aston Villa,-151,-4.38,H
+Forest,Chelsea,-100,-6.32,A
+Leeds,Aston Villa,-151,-1.74,H
+Chelsea,Newcastle,34,-1.47,H
+Bournemouth,Tottenham,34,-2.93,D
+Fulham,Arsenal,-211,-12.51,D
+Bournemouth,Everton,14,-1.08,H
+Brentford,Leeds,89,4.83,D
+Chelsea,West Ham,153,-0.05,H
+Brighton,Brentford,16,10.32,A
+Aston Villa,Arsenal,-120,1.87,D
+Crystal Palace,Wolves,99,8.51,H
+Fulham,Liverpool,-211,-1.98,H
+Everton,Fulham,12,7.65,D
+Everton,Fulham,12,-2.79,H
+Brighton,Chelsea,-76,-11.35,H
+Sunderland,Tottenham,-227,-4.49,A
+Arsenal,Chelsea,90,4.39,D
+Crystal Palace,Aston Villa,-38,-0.53,D
+Man City,Wolves,224,7.35,H
+Crystal Palace,Sunderland,288,11.42,H
+Sunderland,Newcastle,-322,-2.76,A
+Brighton,Leeds,105,6.67,D
+Leeds,Tottenham,-52,-5.04,D
+Bournemouth,West Ham,58,-2.39,H
+Fulham,Man City,-178,4.16,H
+Bournemouth,Newcastle,-61,-0.49,D
+Newcastle,Fulham,87,-1.24,D
+West Ham,Sunderland,203,3.38,H
+Sunderland,Wolves,-189,-4.99,H
+Newcastle,Brentford,58,-0.84,H
+West Ham,Aston Villa,-123,-8.55,H
+Newcastle,Sunderland,322,-2.78,H
+Tottenham,Newcastle,-95,-3.95,H
+West Ham,Crystal Palace,-85,-3.6,A
+Brentford,Sunderland,264,7.37,D
+Tottenham,Man United,-25,0.55,A
+Newcastle,Arsenal,-124,-1.23,A
+Arsenal,Liverpool,0,-2.97,H
+Arsenal,Brentford,182,1.85,H
+Brentford,Sunderland,264,7.32,H
+Leeds,Brentford,-89,1.58,A
+Man City,Fulham,178,2.68,H
+Bournemouth,Newcastle,-61,2.82,H
+Tottenham,West Ham,24,0.63,H
+Aston Villa,West Ham,123,6.59,H
+Tottenham,Everton,-20,-2.36,A
+Crystal Palace,West Ham,85,-4.79,D
+Wolves,Man United,-63,-0.78,D
+Man United,Brighton,-28,2.34,A
+Forest,Tottenham,29,2.88,H
+Chelsea,Wolves,167,5.34,H
+Bournemouth,Wolves,72,0.36,H
+Burnley,Aston Villa,-143,-5.17,A
+Liverpool,Fulham,211,6.51,H
+West Ham,Liverpool,-243,-1.11,H
+Bournemouth,Man United,9,-2.02,A
+Tottenham,Man United,-25,3.57,H
+Fulham,Brighton,-45,-4.64,D
+Brentford,Sunderland,264,3.55,H
+Crystal Palace,Burnley,105,8.53,A
+Everton,Liverpool,-199,-2.32,A
+Man City,Aston Villa,87,1.5,A
+Man United,Aston Villa,-74,-1.37,H
+Arsenal,Burnley,263,6.49,H
+Everton,Forest,-9,-11.25,A
+Everton,Tottenham,20,-3.13,D
+Arsenal,Wolves,257,6.56,H
+West Ham,Arsenal,-243,-7.99,A
+Brentford,Arsenal,-182,-2.9,H
+West Ham,Man City,-210,1.95,D
+Liverpool,Brighton,166,0.89,A
+Chelsea,Crystal Palace,68,-2.9,A
+Bournemouth,Tottenham,34,1.81,A
+Chelsea,Brighton,76,0.17,A
+Crystal Palace,Brighton,8,-0.5,H
+Fulham,Aston Villa,-91,-4.22,A
+Man City,Chelsea,57,9.81,H
+Fulham,Chelsea,-121,-12.33,A
+Man City,Chelsea,57,-0.43,H
+Chelsea,Man United,104,1.46,D
+Man United,Brentford,-12,-3.48,D
+West Ham,Brentford,-61,1.51,A
+Chelsea,Bournemouth,95,5.97,H
+Newcastle,Tottenham,95,2.98,H
+Leeds,Burnley,-8,-1.28,D
+Sunderland,Forest,-256,-6.23,H
+Man United,Everton,5,-0.34,D
+Brentford,Tottenham,37,0.97,H
+Crystal Palace,Fulham,53,0.81,D
+Everton,Man City,-166,-1.9,H
+Man United,Sunderland,252,6.84,H
+Newcastle,Chelsea,-34,-5.93,A
+Liverpool,Brentford,182,-1.87,H
+Chelsea,Fulham,121,-3.06,H
+Sunderland,Brentford,-264,-0.46,H
+Brentford,Aston Villa,-62,0.09,H
+Bournemouth,Leeds,86,3.68,D
+Bournemouth,Arsenal,-185,-11.22,H
+West Ham,Aston Villa,-123,4.86,H
+Arsenal,Sunderland,446,3.47,H
+Arsenal,Tottenham,219,6.84,H
+Newcastle,Arsenal,-124,1.7,D
+Bournemouth,West Ham,58,-2.24,H
+Fulham,Sunderland,235,1.49,A
+Bournemouth,Arsenal,-185,-4.0,D
+Brentford,West Ham,61,12.33,H
+Leeds,Bournemouth,-86,-0.04,A
+Chelsea,Man City,-57,4.74,D
+Man United,Aston Villa,-74,2.31,D
+Forest,Chelsea,-100,-1.85,A
+Bournemouth,Chelsea,-95,-6.68,H
+Wolves,Brentford,-75,2.42,A
+Newcastle,Bournemouth,61,-5.1,D
+Sunderland,Aston Villa,-326,2.09,D
+Crystal Palace,Newcastle,-34,-0.21,H
+Forest,Chelsea,-100,-12.5,H
+Forest,West Ham,53,-0.06,A
+Wolves,Aston Villa,-137,0.74,H
+Brentford,Leeds,89,1.19,H
+Newcastle,Forest,66,4.15,D
+Liverpool,Wolves,257,-0.5,D
+Brighton,Everton,33,-4.73,H
+Wolves,Newcastle,-133,-3.33,A
+Liverpool,Everton,199,3.44,H
+Burnley,Newcastle,-139,-3.29,A
+Forest,Man City,-157,1.43,H
+Man City,Newcastle,91,-2.09,H
+Crystal Palace,Newcastle,-34,0.75,D
+Man United,Man City,-161,-1.86,H
+Crystal Palace,Liverpool,-158,-9.72,A
+Man City,Leeds,238,1.2,H
+Fulham,Forest,-21,-0.37,A
+Fulham,Brentford,-29,7.35,A
+Man City,Leeds,238,6.02,D
+Newcastle,Aston Villa,-4,-6.98,A
+Aston Villa,Brentford,62,-10.62,A
+Fulham,Wolves,46,3.84,H
+Tottenham,Everton,-20,-0.98,D
+Tottenham,Brighton,-53,2.74,A
+Leeds,Newcastle,-147,-8.15,A
+West Ham,Liverpool,-243,-3.28,A
+Crystal Palace,Arsenal,-158,-0.81,A
+Man City,Chelsea,57,0.17,H
+Everton,West Ham,44,-0.4,A
+Leeds,Everton,-72,-1.3,A
+Sunderland,Brentford,-264,-0.77,A
+Aston Villa,West Ham,123,1.65,A
+Aston Villa,Chelsea,-30,2.85,D
+Liverpool,Aston Villa,120,0.94,A
+Man City,Brighton,133,-2.88,H
+Man United,Leeds,77,9.4,A
+Forest,Everton,9,-2.24,H
+Brighton,Burnley,97,0.96,H
+Crystal Palace,Aston Villa,-38,-1.39,H
+Wolves,Fulham,-46,-1.32,D
+Bournemouth,Arsenal,-185,-4.69,H
+Wolves,Aston Villa,-137,-3.19,A
+Sunderland,Forest,-256,-3.05,A
+Crystal Palace,Arsenal,-158,-4.2,A
+Aston Villa,Burnley,143,-6.2,H
+Sunderland,Burnley,-183,3.62,H
+Everton,Forest,-9,-0.81,A
+Newcastle,Crystal Palace,34,3.0,D
+Everton,Arsenal,-199,-11.3,A
+Forest,Everton,9,-1.66,A
+Leeds,Forest,-81,-5.04,A
+Newcastle,West Ham,119,7.54,H
+Sunderland,Everton,-247,-6.13,A
+Leeds,Man City,-238,-3.45,A
+Chelsea,Man City,-57,-3.44,A
+Chelsea,West Ham,153,0.24,H
+Forest,Chelsea,-100,-4.31,H
+Liverpool,Leeds,271,9.11,H
+Newcastle,Man City,-91,-9.3,A
+Brentford,Tottenham,37,-4.34,A
+Sunderland,Man United,-252,-10.66,D
+Sunderland,Brentford,-264,-7.29,A
+Chelsea,Arsenal,-90,-4.54,H
+Burnley,Forest,-73,-7.52,H
+Arsenal,Chelsea,90,-1.64,A
+Tottenham,Forest,-29,-8.92,D
+Wolves,Sunderland,189,-0.88,H
+Burnley,Tottenham,-44,4.15,D
+Aston Villa,Liverpool,-120,-0.06,D
+Burnley,Wolves,-6,0.6,D
+Man City,Chelsea,57,-2.05,A
+Forest,Tottenham,29,-5.57,D
+Bournemouth,Everton,14,-4.35,D
+Crystal Palace,Newcastle,-34,-0.85,D
+Liverpool,Brentford,182,7.36,H
+West Ham,Man City,-210,1.04,H
+Crystal Palace,Sunderland,288,9.68,H
+Fulham,Aston Villa,-91,-5.57,A
+Brentford,Crystal Palace,-24,-0.38,D
+Brighton,Forest,24,-0.45,D
+Burnley,Fulham,-52,-1.83,H
+Arsenal,Forest,190,10.55,D
+Tottenham,Forest,-29,-8.06,H
+Tottenham,Man United,-25,-1.81,D
+Brighton,Burnley,97,6.7,D
+Newcastle,Brighton,42,-4.82,D
+Liverpool,Wolves,257,0.32,A
+Leeds,West Ham,-28,-2.95,H
+Leeds,Sunderland,175,3.64,D
+Aston Villa,Leeds,151,-2.33,A
+Liverpool,West Ham,243,7.07,H
+Man City,Aston Villa,87,5.17,D
+Arsenal,West Ham,243,6.72,H
+Wolves,Tottenham,-38,-4.8,A
+Burnley,Newcastle,-139,-1.55,A
+Chelsea,Fulham,121,-0.79,D
+Tottenham,Newcastle,-95,-3.6,A
+Chelsea,Forest,100,10.99,H
+Brighton,West Ham,77,1.5,D
+Man United,Chelsea,-104,-6.72,D
+Tottenham,Crystal Palace,-61,-1.37,A
+Burnley,West Ham,-20,-5.71,A
+Liverpool,Bournemouth,185,-0.08,D
+Chelsea,Sunderland,356,2.51,H
+Newcastle,Liverpool,-124,-4.65,A
+Crystal Palace,Tottenham,61,4.65,D
+Sunderland,Wolves,-189,-0.08,A
+West Ham,Leeds,28,2.65,H
+Crystal Palace,Chelsea,-68,-5.39,H
+Sunderland,Man City,-413,-5.65,D
+Bournemouth,Brighton,-19,0.8,H
+Forest,Brighton,-24,-2.87,A
+Brentford,Brighton,-16,-1.67,D
+Man City,Everton,166,6.12,H
+Leeds,Fulham,-60,-2.28,H
+Liverpool,Bournemouth,185,5.62,H
+Chelsea,Arsenal,-90,5.08,A
+Aston Villa,Sunderland,326,4.7,H
+Newcastle,Aston Villa,-4,4.66,H
+Man City,Arsenal,-33,1.75,H
+Liverpool,Man United,194,-3.43,A
+Fulham,Brentford,-29,-5.13,A
+Sunderland,Everton,-247,-8.06,H
+Man City,Burnley,230,0.21,H
+Newcastle,Arsenal,-124,-3.8,H
+Forest,Newcastle,-66,0.52,D
+Leeds,Forest,-81,2.67,H
+Fulham,West Ham,32,2.03,A
+West Ham,Everton,-44,-2.87,A
+Man United,Brighton,-28,-9.03,H
+Brentford,Everton,17,0.62,D
+Chelsea,Sunderland,356,5.67,H
+Burnley,Bournemouth,-78,-0.4,H
+Wolves,Burnley,6,8.63,H
+Liverpool,West Ham,243,8.71,H
+Tottenham,Crystal Palace,-61,1.35,A
+Arsenal,Aston Villa,120,0.06,H
+Tottenham,West Ham,24,-1.45,A
+Wolves,Aston Villa,-137,-4.75,H
+Man City,Crystal Palace,125,-0.21,H
+Brentford,Aston Villa,-62,1.09,D
+Man City,Everton,166,3.61,A
+Man United,Newcastle,-70,-5.38,H
+Leeds,Fulham,-60,2.73,H
+Arsenal,Leeds,271,5.38,D
+Brighton,Wolves,91,-5.17,D
+Sunderland,Leeds,-175,-3.98,A
+Crystal Palace,Liverpool,-158,-1.67,H
+Man City,Bournemouth,152,8.64,H
+Bournemouth,Aston Villa,-65,-3.57,A
+Forest,Leeds,81,4.49,D
+Fulham,Tottenham,8,0.99,D
+Crystal Palace,Arsenal,-158,-8.06,D
+Sunderland,Man United,-252,-8.53,D
+Forest,Everton,9,4.81,A
+Newcastle,Bournemouth,61,5.68,D
+Sunderland,Bournemouth,-261,-2.61,H
+Leeds,Arsenal,-271,3.0,A
+Bournemouth,Arsenal,-185,0.29,A
+Liverpool,Crystal Palace,158,6.23,H
+Man United,Wolves,63,-2.41,H
+Man United,Burnley,69,7.94,D
+Man City,West Ham,210,4.72,H
+Everton,Liverpool,-199,-7.33,A
+Wolves,West Ham,-14,-3.16,A
+Man City,Brighton,133,5.29,H
+Tottenham,Brentford,-37,-7.6,A
+Man City,Leeds,238,7.43,H
+Tottenham,Burnley,44,-2.51,H
+Brentford,Arsenal,-182,-3.18,A
+Liverpool,Brighton,166,1.54,H
+Sunderland,Tottenham,-227,-4.66,D
+Chelsea,Forest,100,-0.65,D
+Man United,Newcastle,-70,-1.67,A
+Chelsea,Forest,100,8.98,D
+Leeds,Burnley,-8,5.3,A
+Tottenham,Aston Villa,-99,-1.88,H
+Wolves,Tottenham,-38,-0.67,D
+Brentford,Tottenham,37,3.93,D
+Bournemouth,Burnley,78,5.65,H
+Everton,Newcastle,-75,-5.5,A
+West Ham,Aston Villa,-123,-2.59,D
+Wolves,Forest,-67,-8.6,H
+Liverpool,Forest,190,6.9,H
+Fulham,Brentford,-29,7.25,H
+Man City,West Ham,210,4.61,H
+Newcastle,West Ham,119,-5.18,D
+Wolves,Aston Villa,-137,-1.31,A
+Newcastle,West Ham,119,-1.95,H
+West Ham,Aston Villa,-123,-6.64,H
+Bournemouth,Brentford,-3,2.43,A
+Aston Villa,Liverpool,-120,-2.33,H
+Crystal Palace,West Ham,85,-0.32,D
+Forest,Sunderland,256,4.15,H
+West Ham,Brentford,-61,-1.59,D
+Everton,Tottenham,20,-1.14,A
+Leeds,Man City,-238,-7.21,A
+Burnley,Everton,-64,-3.52,A
+West Ham,Brighton,-77,-1.25,A
+Everton,Tottenham,20,-0.21,H
+Newcastle,Leeds,147,-2.35,H
+Brentford,Forest,8,4.12,H
+Man City,Newcastle,91,-9.65,H
+Brighton,Bournemouth,19,-1.12,D
+Leeds,Man City,-238,-7.11,H
+Brentford,Newcastle,-58,-0.55,H
+Man City,Arsenal,-33,1.26,H
+Fulham,Everton,-12,4.33,D
+Sunderland,Crystal Palace,-288,-5.92,A
+Burnley,Aston Villa,-143,-0.24,A
+Newcastle,Liverpool,-124,-2.09,H
+Bournemouth,Burnley,78,-5.33,H
+Forest,Wolves,67,8.58,A
+Aston Villa,Wolves,137,-3.26,D
+Newcastle,Arsenal,-124,-0.62,D
+Aston Villa,Crystal Palace,38,2.5,D
+Sunderland,Crystal Palace,-288,-4.01,H
+Tottenham,Man United,-25,-2.85,A
+Wolves,Man City,-224,-2.94,A
+Wolves,Man City,-224,-9.81,A
+Sunderland,Newcastle,-322,-7.78,A
+Man City,Sunderland,413,3.55,H
+Burnley,Chelsea,-173,-4.96,H
+Arsenal,Leeds,271,5.69,D
+Bournemouth,Fulham,26,5.09,H
+Man United,Leeds,77,1.24,H
+Brighton,Wolves,91,4.87,H
+Man City,Crystal Palace,125,1.93,A
+Chelsea,Wolves,167,-1.38,H
+Wolves,Chelsea,-167,-3.22,D
+Crystal Palace,Newcastle,-34,-2.21,D
+Crystal Palace,Aston Villa,-38,-3.73,A
+Leeds,Man City,-238,-2.92,A
+Man City,Arsenal,-33,-0.05,A
+Leeds,Chelsea,-181,-11.78,H
+Leeds,Man City,-238,-12.16,A
+Man United,Brighton,-28,1.28,A
+Chelsea,Arsenal,-90,-5.42,D
+Chelsea,Arsenal,-90,-1.81,A
+Newcastle,Sunderland,322,9.56,H
+Man United,Arsenal,-194,-8.34,D
+Chelsea,Arsenal,-90,-7.37,H
+Bournemouth,Liverpool,-185,1.19,H
+Man City,Burnley,230,4.13,A
+Forest,Bournemouth,-5,-1.8,H
+Liverpool,Wolves,257,-0.84,H
+Tottenham,West Ham,24,-1.2,H
+Arsenal,Man United,194,-2.32,H
+Chelsea,Arsenal,-90,2.24,D
+Chelsea,West Ham,153,-0.38,H
+Wolves,Liverpool,-257,0.51,A
+Arsenal,Everton,199,2.53,A
+Brentford,Everton,17,-3.83,D
+Man United,Burnley,69,-0.36,A
+Forest,Crystal Palace,-32,-11.29,A
+Fulham,Everton,-12,-0.78,D
+Wolves,Brentford,-75,-3.23,H
+Brighton,Forest,24,3.9,H
+Wolves,Leeds,14,-7.2,A
+Crystal Palace,Tottenham,61,6.44,H
+Sunderland,Brentford,-264,0.34,D
+Forest,Brentford,-8,4.77,A
+Tottenham,Fulham,-8,-0.49,H
+Burnley,Crystal Palace,-105,2.07,A
+West Ham,Chelsea,-153,-7.93,D
+Burnley,Bournemouth,-78,1.34,A
+Forest,Arsenal,-190,-6.29,D
+Liverpool,Chelsea,90,-4.45,H
+Bournemouth,Brentford,-3,-4.6,A
+Chelsea,West Ham,153,3.43,H
+Burnley,West Ham,-20,-3.6,A
+Aston Villa,Newcastle,4,1.58,D
+Aston Villa,Brentford,62,-5.41,H
+Aston Villa,Chelsea,-30,-9.11,H
+Everton,West Ham,44,6.58,A
+Man United,Aston Villa,-74,1.46,D
+Leeds,West Ham,-28,-4.75,A
+Brentford,Wolves,75,2.17,H
+Newcastle,Fulham,87,5.75,A
+Liverpool,Crystal Palace,158,3.77,H
+Liverpool,Sunderland,446,5.32,H
+Brighton,Fulham,45,5.49,H
+Leeds,Everton,-72,-3.97,H
+Forest,Burnley,73,2.61,A
+Burnley,Forest,-73,-1.85,A
+Man City,Arsenal,-33,-1.58,D
+Arsenal,Burnley,263,5.29,A
+Wolves,West Ham,-14,-0.2,H
+Man City,Aston Villa,87,1.39,H
+Arsenal,Crystal Palace,158,-2.1,H
+Brentford,West Ham,61,4.4,H
+Leeds,Aston Villa,-151,-7.28,H
+Fulham,Bournemouth,-26,-1.65,D
+Arsenal,Fulham,211,3.12,H
+Wolves,Fulham,-46,0.07,A
+Wolves,Leeds,14,-8.27,A
+Wolves,Man City,-224,-1.79,A
+Leeds,Newcastle,-147,-7.33,H
+Aston Villa,Sunderland,326,10.27,H
+Sunderland,Man United,-252,-6.69,D
+Crystal Palace,Aston Villa,-38,-0.95,A
+Wolves,Newcastle,-133,3.39,D
+Man United,Crystal Palace,-36,-1.65,D
+West Ham,Man United,-49,3.99,H
+Everton,Newcastle,-75,-0.94,A
+Everton,Newcastle,-75,-0.89,A
+Everton,Brentford,-17,-0.14,D
+West Ham,Everton,-44,1.87,A
+Tottenham,Chelsea,-129,-6.3,A
+Man City,Everton,166,-0.3,H
+Wolves,Leeds,14,-2.2,A
+Forest,Man City,-157,-2.38,D
+Crystal Palace,Burnley,105,1.6,H
+Forest,Fulham,21,3.47,H
+Sunderland,Everton,-247,-1.4,A
+Burnley,Fulham,-52,-5.18,A
+Wolves,Man United,-63,-5.1,H
+Bournemouth,Fulham,26,-4.84,H
+West Ham,Everton,-44,7.03,H
+Brighton,Arsenal,-166,-2.41,A
+Fulham,West Ham,32,2.4,A
+Everton,Brentford,-17,-5.7,H
+Aston Villa,Arsenal,-120,-3.91,D
+Newcastle,Brentford,58,2.89,D
+Arsenal,Brentford,182,2.1,H
+Man City,Arsenal,-33,3.32,D
+Brentford,Sunderland,264,13.17,H
+Bournemouth,Aston Villa,-65,-6.01,H
+Chelsea,Crystal Palace,68,-2.1,H
+Brentford,Tottenham,37,-2.96,A
+Everton,Wolves,58,7.56,H
+Aston Villa,Tottenham,99,6.99,H
+Crystal Palace,West Ham,85,2.32,D
+Brighton,Aston Villa,-46,-1.45,A
+Forest,Wolves,67,-0.98,H
+Brighton,Wolves,91,4.87,H
+Tottenham,Bournemouth,-34,-2.53,A
+Crystal Palace,Forest,32,-0.56,H
+Brentford,Liverpool,-182,0.1,A
+Brighton,West Ham,77,1.49,H
+Chelsea,Sunderland,356,4.63,H
+Fulham,Bournemouth,-26,-0.73,H
+Aston Villa,Forest,70,5.57,D
+Newcastle,Bournemouth,61,7.48,H
+West Ham,Arsenal,-243,-2.34,H
+Leeds,Everton,-72,0.76,D
+Fulham,Tottenham,8,-0.6,A
+Leeds,West Ham,-28,-3.53,H
+Burnley,Leeds,8,2.82,D
+Bournemouth,Leeds,86,3.58,D
+West Ham,Sunderland,203,-3.18,H
+Crystal Palace,Forest,32,-0.2,A
+Bournemouth,Everton,14,0.16,A
+Forest,Everton,9,-1.73,H
+Sunderland,Aston Villa,-326,0.53,H
+Wolves,Tottenham,-38,0.98,H
+Bournemouth,Man City,-152,2.78,H
+Fulham,Arsenal,-211,-2.39,A
+Aston Villa,Brentford,62,2.45,A
+Wolves,Forest,-67,-5.38,A
+Man United,Fulham,17,0.56,H
+Forest,Bournemouth,-5,-0.02,D
+West Ham,Forest,-53,-7.04,H
+Everton,Leeds,72,-0.06,D
+Arsenal,Crystal Palace,158,3.6,H
+Newcastle,Bournemouth,61,2.55,A
+Chelsea,Man United,104,4.31,A
+Tottenham,Bournemouth,-34,-3.17,H
+Liverpool,Sunderland,446,7.78,H
+Aston Villa,Sunderland,326,2.51,H
+Man United,Forest,-4,-11.58,A
+Fulham,Bournemouth,-26,-2.46,D
+Forest,Man United,4,4.44,H
+Burnley,Chelsea,-173,-9.72,A
+Leeds,Brentford,-89,-1.68,H
+Man City,Aston Villa,87,8.85,H
+Sunderland,Man City,-413,-6.53,H
+Everton,Arsenal,-199,-4.95,A
+Everton,Man United,-5,-5.37,A
+Arsenal,Liverpool,0,6.51,H
+Everton,Arsenal,-199,-2.82,D
+Tottenham,Brentford,-37,-1.1,A
+Man United,Brighton,-28,4.86,H
+Arsenal,West Ham,243,9.2,H
+Forest,Man United,4,-3.4,D
+Leeds,Tottenham,-52,-3.61,D
+Tottenham,Crystal Palace,-61,0.78,A
+Man City,Liverpool,-33,-3.48,D
+Sunderland,Aston Villa,-326,-11.7,A
+Sunderland,Man United,-252,-4.99,H
+Chelsea,Sunderland,356,-1.47,H
+Wolves,Chelsea,-167,4.28,H
+Brentford,Man City,-149,-1.96,A
+Man United,Leeds,77,-1.75,A
+Brentford,Sunderland,264,3.09,D
+West Ham,Chelsea,-153,-9.6,H
+Sunderland,Brentford,-264,-11.26,A
+West Ham,Everton,-44,2.54,A
+Leeds,Chelsea,-181,4.28,A
+Leeds,Crystal Palace,-113,-0.8,H
+Arsenal,Brighton,166,3.26,A
+Newcastle,Everton,75,0.82,H
+Tottenham,Crystal Palace,-61,-5.62,H
+Man United,Brentford,-12,7.94,A
+Arsenal,Newcastle,124,0.97,H
+Arsenal,West Ham,243,13.15,H
+Forest,Chelsea,-100,2.25,D
+Everton,Aston Villa,-79,-9.64,A
+Chelsea,Aston Villa,30,-1.92,H
+Chelsea,Leeds,181,0.42,D
+Man City,Leeds,238,5.24,H
+Man United,Forest,-4,-0.3,H
+Liverpool,Chelsea,90,13.28,H
+Man United,West Ham,49,-3.1,D
+Bournemouth,Brentford,-3,0.81,H
+Bournemouth,Wolves,72,3.87,H
+Fulham,Brighton,-45,-1.12,D
+Forest,Sunderland,256,4.3,H
+Tottenham,Wolves,38,-3.24,D
+West Ham,Aston Villa,-123,-1.28,A
+Leeds,Tottenham,-52,0.76,D
+West Ham,Newcastle,-119,-1.46,D
+Forest,Crystal Palace,-32,1.64,D
+Bournemouth,Newcastle,-61,4.45,D
+Aston Villa,Fulham,91,6.36,H
+Man United,Newcastle,-70,-0.74,H
+Man City,Everton,166,-2.51,H
+Leeds,Man United,-77,-3.52,D
+Wolves,West Ham,-14,-1.37,A
+Man City,Sunderland,413,5.66,H
+West Ham,Liverpool,-243,-4.72,D
+Man City,Sunderland,413,4.39,H
+Tottenham,Man City,-186,-7.12,A
+Arsenal,Forest,190,-3.4,H
+Bournemouth,Crystal Palace,-27,-1.34,D
+Fulham,Everton,-12,-6.24,A
+Tottenham,Aston Villa,-99,-6.83,H
+Brentford,Burnley,81,0.77,D
+Leeds,Brentford,-89,-7.05,A
+West Ham,Leeds,28,2.08,D
+Aston Villa,Crystal Palace,38,4.28,A
+Fulham,Aston Villa,-91,-5.25,A
+Tottenham,Brighton,-53,-2.53,D
+Crystal Palace,Forest,32,3.1,H
+Tottenham,Fulham,-8,-3.14,D
+Burnley,Wolves,-6,-3.28,A
+Wolves,Aston Villa,-137,1.04,A
+West Ham,Crystal Palace,-85,2.31,A
+Everton,Leeds,72,3.46,H
+Newcastle,Brentford,58,4.56,D
+West Ham,Aston Villa,-123,-9.62,A
+Brighton,Sunderland,280,12.48,H
+Forest,Brentford,-8,1.33,D
+Crystal Palace,Sunderland,288,10.18,H
+Crystal Palace,Leeds,113,3.67,D
+Chelsea,Leeds,181,5.62,H
+Sunderland,Man United,-252,-3.97,H
+Man City,West Ham,210,7.47,D
+Arsenal,Sunderland,446,2.3,A
+Leeds,Newcastle,-147,1.49,A
+Man United,Liverpool,-194,-8.78,D
+Brentford,Crystal Palace,-24,-2.88,H
+Tottenham,Everton,-20,7.78,H
+Brighton,Forest,24,-1.91,A
+Man City,Arsenal,-33,-1.77,D
+Tottenham,Man United,-25,-4.28,A
+Chelsea,Brighton,76,2.82,H
+Man United,Forest,-4,-3.01,D
+Leeds,Man United,-77,-2.24,A
+Leeds,Everton,-72,1.99,H
+Brighton,Brentford,16,-2.32,A
+West Ham,Brentford,-61,1.36,D
+Everton,Fulham,12,3.47,H
+Bournemouth,Tottenham,34,5.23,H
+Man City,Wolves,224,3.24,D
+Brighton,Crystal Palace,-8,12.73,D
+Fulham,Brentford,-29,3.64,A
+Sunderland,Crystal Palace,-288,-2.79,A
+Liverpool,Forest,190,0.5,H
+Tottenham,Man City,-186,-3.55,A
+Wolves,Brentford,-75,3.52,A
+Sunderland,Chelsea,-356,-0.95,H
+Brentford,Forest,8,6.19,D
+Man City,Burnley,230,7.68,H
+Newcastle,Sunderland,322,0.34,H
+Burnley,Brentford,-81,-0.01,D
+Burnley,Arsenal,-263,-10.83,A
+Everton,Aston Villa,-79,-7.86,H
+Man City,Brighton,133,4.0,H
+Man City,West Ham,210,6.38,H
+Bournemouth,Sunderland,261,7.51,H
+Man United,Brighton,-28,1.29,A
+Liverpool,Chelsea,90,4.72,A
+Fulham,Liverpool,-211,-8.24,H
+Forest,Sunderland,256,6.33,H
+Liverpool,Crystal Palace,158,-1.13,A
+Arsenal,Man City,33,-7.19,H
+Bournemouth,Chelsea,-95,-0.21,H
+Tottenham,Newcastle,-95,-4.37,A
+Wolves,Fulham,-46,1.9,A
+Brentford,Burnley,81,6.0,D
+Newcastle,Tottenham,95,-0.21,D
+Sunderland,Fulham,-235,-1.31,A
+Bournemouth,Arsenal,-185,-6.58,A
+Crystal Palace,Liverpool,-158,-10.18,A
+Brentford,Arsenal,-182,-4.17,A
+Liverpool,Leeds,271,1.1,H
+Crystal Palace,Man United,36,-0.51,D
+Forest,Wolves,67,10.19,H
+Leeds,Liverpool,-271,-11.07,A
+Tottenham,Liverpool,-219,-2.87,A
+West Ham,Wolves,14,-3.56,H
+Forest,Man City,-157,1.55,D
+Man City,Chelsea,57,2.87,D
+Brighton,Forest,24,2.0,H
+Sunderland,Everton,-247,-9.45,H
+Liverpool,Aston Villa,120,-0.83,H
+Burnley,Brentford,-81,1.36,H
+Fulham,Man United,-17,6.57,A
+Newcastle,Brentford,58,3.06,H
+West Ham,Brighton,-77,-5.83,H
+Wolves,Arsenal,-257,-3.48,A
+Liverpool,Bournemouth,185,12.86,H
+Man City,Wolves,224,4.87,H
+Fulham,Everton,-12,5.43,A
+Sunderland,Burnley,-183,-5.3,A
+Liverpool,Man City,33,0.98,D
+Fulham,Liverpool,-211,-3.54,A
+Man City,Forest,157,5.07,A
+Fulham,Chelsea,-121,-6.44,H
+Everton,Man United,-5,-3.34,A
+Arsenal,Leeds,271,6.93,H
+Fulham,Crystal Palace,-53,3.46,H
+Burnley,Forest,-73,3.56,A
+Burnley,Fulham,-52,6.19,H
+Liverpool,Chelsea,90,3.13,A
+Aston Villa,Burnley,143,2.63,H
+Aston Villa,Bournemouth,65,7.31,H
+Bournemouth,Wolves,72,4.25,H
+Man City,Fulham,178,-0.87,A
+Burnley,Man City,-230,-8.67,A
+West Ham,Tottenham,-24,1.13,H
+Wolves,Chelsea,-167,-5.82,H
+Chelsea,Man United,104,2.35,D
+Liverpool,Sunderland,446,12.56,H
+Leeds,Sunderland,175,6.81,H
+Newcastle,Burnley,139,7.84,H
+Fulham,Bournemouth,-26,-8.11,H
+Leeds,Man United,-77,-1.23,D
+Liverpool,Crystal Palace,158,6.97,H
+Liverpool,Leeds,271,0.85,A
+Liverpool,Bournemouth,185,2.1,D
+Chelsea,West Ham,153,-1.32,H
+Arsenal,Brighton,166,3.72,H
+Wolves,Tottenham,-38,5.38,D
+Everton,Aston Villa,-79,6.18,A
+Sunderland,Tottenham,-227,-7.76,D
+Wolves,Liverpool,-257,-4.66,A
+Sunderland,Man City,-413,-4.73,A
+Aston Villa,Brighton,46,2.92,H
+Newcastle,Bournemouth,61,3.09,D
+Wolves,Tottenham,-38,0.46,H
+Aston Villa,Brighton,46,7.89,D
+Arsenal,Liverpool,0,4.41,H
+Fulham,Crystal Palace,-53,-5.81,A
+Wolves,Brentford,-75,1.0,D
+Sunderland,Forest,-256,0.68,H
+Leeds,Everton,-72,-1.19,A
+Man City,Aston Villa,87,6.2,D
+West Ham,Everton,-44,-0.77,A
+Wolves,Everton,-58,-0.62,A
+Fulham,West Ham,32,1.6,H
+Wolves,Forest,-67,-10.36,A
+Wolves,Man City,-224,-5.68,H
+Brentford,Aston Villa,-62,-4.8,H
+Liverpool,Tottenham,219,0.54,A
+Bournemouth,Liverpool,-185,0.23,A
+Aston Villa,Man City,-87,0.76,H
+Man City,Burnley,230,2.6,H
+Man City,Bournemouth,152,1.13,A
+Fulham,Everton,-12,0.77,H
+Forest,Everton,9,4.24,H
+Forest,Fulham,21,-2.78,H
+Tottenham,Aston Villa,-99,-2.37,H
+Forest,Chelsea,-100,0.62,H
+Everton,Liverpool,-199,-13.53,A
+Arsenal,Burnley,263,6.62,H
+Burnley,Aston Villa,-143,-3.66,D
+Brentford,Man United,12,-0.24,D
+Chelsea,Bournemouth,95,-0.19,D
+Wolves,Chelsea,-167,-3.83,A
+Tottenham,Brentford,-37,6.78,D
+Arsenal,Man United,194,4.4,H
+Chelsea,West Ham,153,4.58,H
+Liverpool,Man City,33,8.96,D
+Newcastle,Wolves,133,-0.37,D
+Arsenal,Man United,194,12.95,D
+Tottenham,Leeds,52,0.79,H
+Forest,Brentford,-8,6.97,D
+Sunderland,Aston Villa,-326,-4.55,A
+Tottenham,Everton,-20,0.53,H
+Everton,Leeds,72,1.49,A
+Forest,Crystal Palace,-32,-3.29,H
+Arsenal,Liverpool,0,0.3,H
+Arsenal,Crystal Palace,158,8.48,D
+Everton,Leeds,72,1.0,H
+Liverpool,Forest,190,1.14,H
+Liverpool,Sunderland,446,4.9,H
+Aston Villa,Forest,70,4.99,A
+Burnley,Liverpool,-263,1.97,D
+Bournemouth,Burnley,78,-0.4,D
+Tottenham,West Ham,24,-1.96,A
+Brentford,Tottenham,37,2.25,D
+Chelsea,Sunderland,356,12.79,D
+Brighton,Chelsea,-76,2.37,A
+Arsenal,Leeds,271,-1.03,H
+West Ham,Aston Villa,-123,-4.47,A
+Chelsea,Sunderland,356,1.84,H
+Brighton,Chelsea,-76,-3.65,H
+Sunderland,Man United,-252,3.55,H
+Man United,West Ham,49,-4.72,D
+Bournemouth,Arsenal,-185,-9.62,H
+Forest,Arsenal,-190,-6.52,A
+West Ham,Wolves,14,1.64,H
+Newcastle,Arsenal,-124,-0.96,D
+Everton,Brentford,-17,1.33,H
+Burnley,Leeds,8,4.9,A
+Man United,Everton,5,-6.88,H
+Brentford,Bournemouth,3,4.83,H
+Man City,Brentford,149,1.42,H
+Aston Villa,Everton,79,4.07,H
+Leeds,Man United,-77,-6.79,A
+Forest,Man City,-157,-4.16,A
+Crystal Palace,Chelsea,-68,-0.71,H
+Brentford,Fulham,29,5.34,A
+Man United,Tottenham,25,-5.72,D
+Forest,Tottenham,29,1.13,H
+Fulham,Arsenal,-211,-10.36,A
+Newcastle,Tottenham,95,3.38,D
+Everton,Tottenham,20,3.41,D
+Brentford,Chelsea,-92,3.39,D
+Leeds,Wolves,-14,-2.63,D
+Chelsea,Forest,100,6.08,H
+Man City,Bournemouth,152,10.19,H
+Bournemouth,Tottenham,34,-5.56,H
+Forest,Brighton,-24,1.85,A
+Fulham,Forest,-21,3.42,D
+Brentford,Crystal Palace,-24,-1.51,D
+Leeds,Newcastle,-147,-6.82,H
+Bournemouth,Sunderland,261,8.64,H
+Man City,Wolves,224,-1.23,H
+Man City,Tottenham,186,2.44,H
+Sunderland,Liverpool,-446,-3.7,H
+Man City,Brighton,133,6.51,D
+Leeds,Sunderland,175,2.78,H
+Newcastle,Chelsea,-34,-3.58,H
+Arsenal,Brighton,166,4.03,H
+Crystal Palace,Aston Villa,-38,2.71,D
+Everton,Tottenham,20,9.65,H
+Brentford,Bournemouth,3,-5.94,A
+West Ham,Man United,-49,0.05,H
+Everton,Leeds,72,-2.59,D
+Brentford,Forest,8,4.28,A
+Everton,Tottenham,20,-3.16,D
+Sunderland,Arsenal,-446,-9.79,H
+Brentford,Aston Villa,-62,-3.88,A
+Chelsea,Leeds,181,2.02,H
+Brentford,Burnley,81,4.03,H
+Wolves,Fulham,-46,0.34,H
+Aston Villa,Brighton,46,0.66,A
+Leeds,Chelsea,-181,-8.42,D
+Man United,Burnley,69,5.27,A
+Everton,West Ham,44,0.66,D
+Crystal Palace,Aston Villa,-38,3.33,D
+Leeds,Man United,-77,-5.07,H
+Liverpool,Everton,199,-0.62,D
+Newcastle,Bournemouth,61,0.76,H
+Brentford,Leeds,89,7.32,H
+Bournemouth,Man City,-152,-2.75,H
+Bournemouth,Newcastle,-61,-2.89,D
+Man City,Arsenal,-33,-4.14,D
+Aston Villa,Fulham,91,8.77,H
+Arsenal,Everton,199,-1.64,H
+Man United,Sunderland,252,2.84,A
+Brighton,Forest,24,3.12,H
+Man United,Chelsea,-104,-8.9,D
+Man United,Bournemouth,-9,4.92,H
+Tottenham,Arsenal,-219,-1.03,D
+Forest,Fulham,21,4.33,D
+Everton,Fulham,12,2.53,H
+Man United,Burnley,69,0.7,H
+Fulham,Crystal Palace,-53,-5.3,A
+Everton,Crystal Palace,-41,-1.58,H
+Crystal Palace,Arsenal,-158,-6.7,A
+Aston Villa,Brentford,62,2.86,A
+West Ham,Bournemouth,-58,1.23,H
+Crystal Palace,West Ham,85,7.95,H
+Forest,West Ham,53,2.53,H
+Chelsea,Man City,-57,2.02,H
+Brentford,Newcastle,-58,-2.9,D
+Forest,Burnley,73,-0.85,D
+Everton,Crystal Palace,-41,1.29,D
+Forest,Liverpool,-190,-3.95,H
+Brighton,Wolves,91,3.69,H
+Sunderland,Tottenham,-227,-9.65,A
+Forest,Liverpool,-190,-8.33,A
+Wolves,Crystal Palace,-99,-0.28,H
+Tottenham,Wolves,38,4.49,D
+Man United,Liverpool,-194,-8.01,A
+Burnley,Brentford,-81,0.33,A
+Man City,Wolves,224,1.44,H
+Leeds,Sunderland,175,5.35,D
+Burnley,Newcastle,-139,1.25,H
+Forest,Fulham,21,3.96,H
+Tottenham,Chelsea,-129,-0.97,A
+Forest,Man City,-157,4.85,H
+Newcastle,Brighton,42,-2.19,H
+West Ham,Burnley,20,-3.44,A
+Aston Villa,Fulham,91,-0.27,D
+Crystal Palace,Bournemouth,27,-0.21,D
+Forest,Newcastle,-66,-10.71,A
+Wolves,Man City,-224,-4.4,A
+Brighton,Newcastle,-42,-3.22,H
+Bournemouth,Chelsea,-95,-0.04,D
+Liverpool,Chelsea,90,2.7,D
+Man City,Fulham,178,0.66,A
+Arsenal,Man City,33,3.02,H
+Arsenal,Liverpool,0,2.89,H
+Burnley,Forest,-73,-4.85,A
+Wolves,Newcastle,-133,-3.8,H
+Wolves,Bournemouth,-72,-10.3,H
+Arsenal,Man City,33,-3.87,A
+Arsenal,Aston Villa,120,-0.18,H
+Newcastle,Brentford,58,2.29,H
+Man United,Fulham,17,-3.36,H
+Crystal Palace,Brentford,24,-1.22,H
+Bournemouth,Forest,5,-4.75,A
+Chelsea,Forest,100,4.01,H
+Tottenham,Newcastle,-95,-0.11,H
+Crystal Palace,Newcastle,-34,0.43,H
+Arsenal,Brentford,182,3.16,H
+Tottenham,Liverpool,-219,-10.57,H
+Leeds,Fulham,-60,-4.25,H
+Liverpool,Everton,199,1.68,H
+Brentford,Crystal Palace,-24,-2.09,H
+Wolves,Brighton,-91,-1.01,D
+Tottenham,Crystal Palace,-61,4.8,D
+Burnley,Fulham,-52,1.97,D
+Brentford,West Ham,61,-1.86,H
+Brighton,Man City,-133,0.28,H
+Tottenham,Brentford,-37,1.64,H
+Chelsea,Liverpool,-90,-6.24,D
+Aston Villa,Bournemouth,65,5.3,D
+Everton,Aston Villa,-79,-1.79,H
+Fulham,Crystal Palace,-53,-6.95,A
+Man City,Bournemouth,152,3.86,D
+Forest,Crystal Palace,-32,0.23,H
+Brighton,Everton,33,-0.25,H
+Forest,West Ham,53,1.42,H
+Sunderland,Wolves,-189,-5.27,H
+Arsenal,Liverpool,0,2.44,D
+Sunderland,Brighton,-280,-4.21,H
+Brentford,Wolves,75,2.12,D
+West Ham,Forest,-53,-0.14,D
+Brentford,Aston Villa,-62,-5.83,A
+Crystal Palace,Man United,36,-2.86,A
+West Ham,Man City,-210,-13.13,A
+Fulham,Liverpool,-211,-2.9,A
+Man City,Everton,166,-2.67,A
+Tottenham,Forest,-29,-0.48,H
+West Ham,Everton,-44,-0.04,H
+Brighton,Crystal Palace,-8,2.17,H
+Leeds,Burnley,-8,-5.02,H
+Everton,Brentford,-17,-0.77,D
+Crystal Palace,Tottenham,61,8.18,H
+Liverpool,Man City,33,7.51,H
+Fulham,Arsenal,-211,0.51,A
+Aston Villa,West Ham,123,3.06,H
+West Ham,Wolves,14,-3.53,D
+Forest,Leeds,81,4.44,H
+Bournemouth,Crystal Palace,-27,-1.17,A
+Chelsea,Liverpool,-90,-0.78,A
+Tottenham,Sunderland,227,1.97,H
+Chelsea,Everton,109,2.39,D
+Brentford,Aston Villa,-62,-0.56,H
+Wolves,West Ham,-14,0.71,D
+Leeds,Brighton,-105,-1.0,D
+Sunderland,Newcastle,-322,-7.68,D
+Sunderland,West Ham,-203,-7.89,A
+Man United,West Ham,49,8.19,A
+Aston Villa,Forest,70,11.66,D
+Wolves,Everton,-58,0.08,D
+Wolves,Newcastle,-133,-7.73,A
+Sunderland,Leeds,-175,-6.87,D
+Fulham,Sunderland,235,7.55,D
+Man City,Sunderland,413,13.49,D
+Forest,Tottenham,29,-4.27,H
+Brentford,Liverpool,-182,-5.16,H
+Wolves,Brighton,-91,-2.27,H
+Brighton,Brentford,16,3.94,H
+Crystal Palace,Sunderland,288,1.69,H
+Arsenal,Forest,190,-3.85,H
+Wolves,Forest,-67,1.18,D
+West Ham,Man City,-210,1.93,H
+Liverpool,West Ham,243,5.29,H
+Brentford,Crystal Palace,-24,0.78,D
+Bournemouth,Arsenal,-185,-5.83,D
+Bournemouth,Sunderland,261,1.49,H
+Leeds,Chelsea,-181,-0.54,A
+Chelsea,Liverpool,-90,-0.61,A
+Crystal Palace,Arsenal,-158,-1.53,A
+Chelsea,Bournemouth,95,8.28,H
+Aston Villa,Man City,-87,-5.89,H
+Leeds,Wolves,-14,-2.42,A
+Leeds,Forest,-81,-1.33,A
+Liverpool,Crystal Palace,158,2.64,D
+Everton,Liverpool,-199,0.65,A
+Aston Villa,Bournemouth,65,0.52,H
+Chelsea,Bournemouth,95,-2.16,H
+Newcastle,Sunderland,322,7.78,D
+Chelsea,Newcastle,34,1.53,A
+Bournemouth,West Ham,58,5.16,H
+Sunderland,Liverpool,-446,-5.52,A
+Man United,Man City,-161,-0.99,H
+Tottenham,Aston Villa,-99,-1.54,A
+Bournemouth,Arsenal,-185,-3.11,H
+Liverpool,Tottenham,219,-0.22,D
+Arsenal,Leeds,271,8.11,H
+Newcastle,Sunderland,322,5.11,H
+Aston Villa,Newcastle,4,6.82,D
+Wolves,West Ham,-14,5.02,H
+Wolves,Forest,-67,1.55,A
+Burnley,Liverpool,-263,-4.36,A
+Everton,Arsenal,-199,-5.32,A
+Man United,Forest,-4,-5.12,H
+Everton,Brentford,-17,-1.2,A
+Brentford,Liverpool,-182,-2.7,A
+Fulham,Leeds,60,2.1,D
+West Ham,Tottenham,-24,1.4,D
+West Ham,Forest,-53,2.64,D
+Everton,Sunderland,247,1.96,H
+Arsenal,Sunderland,446,5.54,H
+Tottenham,Sunderland,227,11.2,H
+Brighton,Newcastle,-42,2.25,H
+Tottenham,Burnley,44,-0.04,H
+Forest,Brighton,-24,-0.91,H
+Burnley,Tottenham,-44,-1.94,A
+Crystal Palace,Burnley,105,2.11,H
+Leeds,Chelsea,-181,-1.98,H
+Wolves,Brentford,-75,8.68,A
+Crystal Palace,Man City,-125,-2.71,A
+Bournemouth,Newcastle,-61,1.45,A
+Forest,Brentford,-8,-7.03,A
+West Ham,Burnley,20,-1.64,A
+Fulham,Burnley,52,6.2,D
+Burnley,Brighton,-97,0.22,A
+Brighton,Crystal Palace,-8,-15.0,A
+Forest,Arsenal,-190,-1.31,H
+Brentford,Leeds,89,10.24,D
+Leeds,Sunderland,175,-2.7,D
+Crystal Palace,Aston Villa,-38,5.13,A
+Man United,Chelsea,-104,-12.56,A
+Man City,Tottenham,186,6.91,H
+Burnley,Crystal Palace,-105,-2.02,D
+Brighton,Chelsea,-76,-11.98,A
+Crystal Palace,Liverpool,-158,-3.11,A
+Man United,Brentford,-12,4.3,A
+Bournemouth,Brighton,-19,0.79,A
+Wolves,Man United,-63,1.11,A
+Forest,Aston Villa,-70,-3.69,A
+Forest,Tottenham,29,-6.87,H
+Man City,Fulham,178,5.83,A
+Liverpool,Bournemouth,185,10.14,H
+Brighton,Chelsea,-76,2.67,D
+Sunderland,Forest,-256,-11.81,H
+Leeds,Fulham,-60,-7.24,D
+Everton,Brighton,-33,-4.04,D
+Everton,Newcastle,-75,-7.46,H
+Brighton,Forest,24,1.01,D
+Chelsea,Brighton,76,3.05,D
+Liverpool,Brentford,182,-3.39,H
+Crystal Palace,Brighton,8,3.31,D
+Crystal Palace,Newcastle,-34,1.22,H
+Chelsea,Tottenham,129,0.18,H
+Newcastle,Bournemouth,61,1.4,H
+Liverpool,Bournemouth,185,-3.08,D
+Everton,Fulham,12,-0.97,A
+Leeds,Brighton,-105,-1.96,D
+Fulham,Man City,-178,-1.62,A
+Brentford,Burnley,81,3.08,D
+Brentford,Arsenal,-182,-4.46,A
+Crystal Palace,Man United,36,0.02,A
+Man City,Newcastle,91,3.76,H
+Man United,Aston Villa,-74,1.49,H
+Man United,Liverpool,-194,-3.63,H
+Liverpool,Leeds,271,5.24,H
+Brentford,Brighton,-16,-1.3,D
+Newcastle,Crystal Palace,34,-1.74,H
+Chelsea,Tottenham,129,4.46,A
+Tottenham,Liverpool,-219,-5.74,A
+Forest,Man United,4,1.68,H
+Everton,Bournemouth,-14,-0.1,H
+Tottenham,Man United,-25,-1.59,H
+Sunderland,Man City,-413,-8.28,D
+Wolves,Sunderland,189,0.36,A
+Everton,Aston Villa,-79,-7.73,A
+Burnley,Fulham,-52,-0.26,H
+Bournemouth,Tottenham,34,1.77,D
+Sunderland,Crystal Palace,-288,-2.74,H
+West Ham,Man City,-210,-6.41,D
+Fulham,Newcastle,-87,6.33,H
+Leeds,Wolves,-14,-1.73,D
+Forest,Leeds,81,-1.15,D
+Tottenham,Leeds,52,-3.21,A
+Newcastle,Aston Villa,-4,-7.04,H
+Sunderland,Everton,-247,2.35,A
+Everton,Chelsea,-109,3.43,H
+West Ham,Tottenham,-24,1.57,H
+Bournemouth,Brentford,-3,-3.67,A
+Burnley,Tottenham,-44,5.94,D
+Arsenal,Fulham,211,2.03,H
+Man City,Sunderland,413,3.57,H
+Forest,Bournemouth,-5,5.6,D
+Tottenham,Crystal Palace,-61,1.74,A
+Wolves,Forest,-67,7.5,D
+Brentford,Chelsea,-92,-1.65,H
+Everton,Man City,-166,-5.95,A
+Man United,Forest,-4,-2.51,H
+Sunderland,Wolves,-189,-12.18,H
+Fulham,Forest,-21,-1.64,D
+Brentford,West Ham,61,5.77,D
+Sunderland,Chelsea,-356,-4.28,H
+Man City,Brentford,149,4.76,D
+Sunderland,Everton,-247,-8.71,A
+Chelsea,Crystal Palace,68,2.23,D
+Newcastle,Liverpool,-124,1.76,H
+Wolves,Arsenal,-257,-3.11,D
+Tottenham,Leeds,52,1.44,H
+Sunderland,Everton,-247,-7.92,H
+Tottenham,Newcastle,-95,2.11,H
+Everton,Newcastle,-75,-13.62,D
+Crystal Palace,Liverpool,-158,-1.97,H
+Liverpool,Leeds,271,15.0,H
+Man City,Aston Villa,87,-3.11,A
+Newcastle,West Ham,119,0.7,D
+Liverpool,Aston Villa,120,2.2,H
+Forest,Crystal Palace,-32,-2.65,A
+West Ham,Newcastle,-119,1.38,H
+Sunderland,Wolves,-189,-3.7,D
+Bournemouth,Liverpool,-185,-4.11,A
+Burnley,Brighton,-97,0.88,D
+Sunderland,Newcastle,-322,-3.15,H
+Burnley,Newcastle,-139,10.83,H
+Bournemouth,Chelsea,-95,-0.75,D
+Crystal Palace,Leeds,113,3.96,D
+Sunderland,Brighton,-280,-10.88,D
+Aston Villa,Brentford,62,-0.96,H
+Brentford,Brighton,-16,4.11,H
+Arsenal,Sunderland,446,2.93,H
+West Ham,Crystal Palace,-85,-10.68,H
+Everton,Crystal Palace,-41,-1.29,A
+Arsenal,Crystal Palace,158,9.68,D
+Aston Villa,Crystal Palace,38,1.3,H
+Man United,Arsenal,-194,-7.04,A
+Forest,Everton,9,-7.3,H
+Wolves,Liverpool,-257,-3.99,D
+Newcastle,Aston Villa,-4,2.51,D
+Leeds,Aston Villa,-151,-11.85,A
+Brentford,Newcastle,-58,3.11,A
+Wolves,West Ham,-14,2.64,A
+Aston Villa,Man United,74,7.05,H
+Liverpool,Sunderland,446,10.6,H
+Arsenal,Brighton,166,7.7,H
+Brighton,Leeds,105,5.56,H
+Sunderland,Liverpool,-446,-1.25,H
+Liverpool,Forest,190,-2.47,A
+Brighton,West Ham,77,-4.14,A
+Man City,Forest,157,1.93,A
+Leeds,Man City,-238,-7.0,H
+Fulham,Crystal Palace,-53,-0.28,H
+West Ham,Liverpool,-243,-3.39,D
+Tottenham,West Ham,24,5.07,A
+Fulham,Arsenal,-211,2.01,H
+West Ham,Sunderland,203,1.54,H
+Liverpool,Tottenham,219,5.36,H
+Burnley,Wolves,-6,-3.54,A
+Tottenham,Bournemouth,-34,-1.77,A
+Tottenham,Burnley,44,2.81,D
+Brighton,Chelsea,-76,-14.74,H
+Wolves,Brentford,-75,7.82,A
+Brighton,Man City,-133,-1.39,D
+Liverpool,West Ham,243,4.18,H
+Leeds,Tottenham,-52,6.17,H
+Aston Villa,Wolves,137,2.35,H
+Man City,West Ham,210,6.53,H
+Everton,Crystal Palace,-41,-3.37,A
+Aston Villa,Arsenal,-120,3.26,D
+Burnley,Leeds,8,-0.26,H
+Brentford,Bournemouth,3,0.67,D
+Liverpool,Arsenal,0,4.82,D
+Sunderland,Leeds,-175,0.07,H
+Forest,Sunderland,256,5.57,H
+Newcastle,Brentford,58,5.87,H
+Fulham,West Ham,32,11.27,H
+Forest,Liverpool,-190,-1.94,A
+Liverpool,Arsenal,0,0.47,D
+West Ham,Newcastle,-119,-2.09,D
+Brentford,Fulham,29,5.96,H
+Fulham,Man City,-178,-6.99,A
+Burnley,Liverpool,-263,-6.0,D
+Everton,Fulham,12,-5.73,A
+Fulham,West Ham,32,-4.26,D
+Newcastle,Tottenham,95,0.65,A
+Aston Villa,West Ham,123,3.76,H
+Brentford,Wolves,75,8.53,D
+Burnley,Everton,-64,0.89,H
+Forest,Man City,-157,-7.13,D
+Crystal Palace,Burnley,105,0.07,H
+West Ham,Crystal Palace,-85,2.63,H
+Burnley,Arsenal,-263,-1.36,A
+Leeds,West Ham,-28,-0.72,A
+Newcastle,Tottenham,95,0.5,D
+Tottenham,Sunderland,227,9.9,H
+Man United,Brentford,-12,-4.21,D
+Brentford,Burnley,81,3.53,D
+Brighton,Liverpool,-166,6.91,A
+Man City,Fulham,178,3.12,H
+Newcastle,Brentford,58,-1.11,D
+Forest,Bournemouth,-5,1.47,H
+Burnley,Newcastle,-139,-5.04,A
+Burnley,Sunderland,183,-3.24,H
+Chelsea,Brighton,76,3.91,H
+Fulham,Burnley,52,5.24,A
+Arsenal,Brentford,182,3.42,H
+Fulham,Liverpool,-211,-4.95,H
+Crystal Palace,Burnley,105,-1.86,H
+Brentford,Chelsea,-92,-3.68,D
+Tottenham,Newcastle,-95,-5.42,A
+Brentford,Burnley,81,-1.7,A
+Wolves,Burnley,6,7.69,H
+Forest,Leeds,81,3.82,A
+Sunderland,Brentford,-264,-1.63,A
+Everton,West Ham,44,5.06,A
+Newcastle,Crystal Palace,34,3.59,H
+West Ham,Tottenham,-24,-2.37,D
+Brentford,Forest,8,1.29,H
+Forest,Arsenal,-190,-5.88,H
+Man City,Brentford,149,5.09,D
+Man City,Bournemouth,152,3.4,H
+Man United,Newcastle,-70,-3.58,D
+Chelsea,Brighton,76,-3.1,D
+Sunderland,Forest,-256,-4.24,H
+Burnley,Liverpool,-263,-4.73,D
+Tottenham,Chelsea,-129,-9.93,A
+Tottenham,West Ham,24,2.63,A
+Man United,Brighton,-28,3.3,H
+Arsenal,Everton,199,13.42,A
+Brighton,Man United,28,-1.01,A
+Bournemouth,Man United,9,-2.02,D
+Leeds,Brentford,-89,-7.43,D
+Aston Villa,Bournemouth,65,2.11,D
+Bournemouth,Wolves,72,1.86,A
+Crystal Palace,Sunderland,288,-0.18,H
+Man City,Newcastle,91,2.35,A
+Man City,Fulham,178,-4.09,A
+Brighton,Sunderland,280,7.74,H
+Arsenal,Liverpool,0,-3.08,A
+Arsenal,West Ham,243,2.67,H
+Brighton,Bournemouth,19,-5.33,A
+Aston Villa,Sunderland,326,1.98,D
+Man United,Tottenham,25,-0.25,H
+Liverpool,Wolves,257,2.85,H
+Crystal Palace,Chelsea,-68,0.26,H
+Bournemouth,Man City,-152,1.69,A
+Sunderland,Leeds,-175,-2.36,D
+Everton,Forest,-9,3.62,A
+Burnley,Man United,-69,4.44,D
+Crystal Palace,Chelsea,-68,0.95,H
+Brentford,Aston Villa,-62,-1.36,A
+Brentford,Wolves,75,6.22,H
+Burnley,Crystal Palace,-105,2.31,H
+Sunderland,Man United,-252,-3.14,H
+Sunderland,Crystal Palace,-288,-11.96,H
+West Ham,Newcastle,-119,-7.24,H
+Forest,Chelsea,-100,-3.0,D
+Forest,Leeds,81,5.86,D
+Sunderland,Leeds,-175,-3.86,D
+Newcastle,Man City,-91,1.93,H
+Crystal Palace,Brighton,8,5.5,H
+Burnley,Man United,-69,2.44,D
+Brighton,Everton,33,5.64,A
+Aston Villa,Tottenham,99,-1.32,H
+Man United,Newcastle,-70,0.57,H
+Crystal Palace,Arsenal,-158,-5.93,A
+Burnley,Crystal Palace,-105,-9.08,A
+Leeds,Man United,-77,-3.39,A
+Crystal Palace,Chelsea,-68,3.31,A
+Forest,Wolves,67,2.82,A
+Sunderland,Liverpool,-446,-0.2,A
+Tottenham,Arsenal,-219,-4.57,A
+Aston Villa,Forest,70,10.81,H
+Man United,Forest,-4,0.57,A
+Everton,Newcastle,-75,-2.09,A
+Fulham,Newcastle,-87,-6.37,A
+Liverpool,Arsenal,0,4.44,D
+Newcastle,Fulham,87,0.92,D
+Burnley,Brighton,-97,-4.44,H
+Aston Villa,Man City,-87,2.2,D
+Newcastle,Brighton,42,5.67,H
+Crystal Palace,Leeds,113,6.65,H
+Chelsea,Newcastle,34,-0.77,D
+Chelsea,Burnley,173,3.54,H
+Crystal Palace,Newcastle,-34,-1.25,H
+Burnley,Chelsea,-173,-2.11,D
+Liverpool,Newcastle,124,7.94,H
+Newcastle,Crystal Palace,34,2.66,D
+Arsenal,Man City,33,8.72,D
+Man United,Leeds,77,4.71,H
+Newcastle,Crystal Palace,34,0.24,A
+West Ham,Tottenham,-24,2.84,D
+Man United,Bournemouth,-9,6.55,H
+West Ham,Brentford,-61,6.2,H
+Everton,Bournemouth,-14,4.54,D
+Brentford,Chelsea,-92,-1.66,D
+Burnley,Tottenham,-44,-2.17,H
+Bournemouth,Man City,-152,-0.41,H
+Leeds,Tottenham,-52,5.93,H
+Sunderland,Liverpool,-446,-1.81,H
+Man United,West Ham,49,3.51,H
+Fulham,Bournemouth,-26,-0.18,A
+Newcastle,Crystal Palace,34,-0.8,D
+Wolves,Burnley,6,-0.5,D
+Fulham,Newcastle,-87,-0.71,A
+Leeds,Bournemouth,-86,4.39,D
+Newcastle,West Ham,119,1.81,H
+West Ham,Leeds,28,1.05,H
+Bournemouth,Leeds,86,-1.39,H
+Chelsea,Arsenal,-90,0.28,D
+Chelsea,Burnley,173,9.96,H
+Man United,Man City,-161,2.95,D
+Crystal Palace,Man United,36,1.35,D
+Man City,Leeds,238,6.0,A
+Brentford,Fulham,29,-0.18,H
+Fulham,Leeds,60,3.0,D
+Crystal Palace,Newcastle,-34,0.58,D
+Sunderland,Crystal Palace,-288,-3.86,A
+West Ham,Crystal Palace,-85,-0.68,A
+Forest,Brighton,-24,1.33,D
+Leeds,Fulham,-60,-2.65,H
+Brentford,Bournemouth,3,-0.92,D
+Man City,Tottenham,186,9.99,D
+Liverpool,Brentford,182,13.17,H
+Leeds,Crystal Palace,-113,-6.41,A
+Sunderland,Chelsea,-356,-8.38,D
+Tottenham,Man United,-25,-4.45,D
+Man City,Burnley,230,5.03,H
+Newcastle,Burnley,139,7.37,H
+Liverpool,Newcastle,124,5.81,D
+Arsenal,Bournemouth,185,5.41,H
+Aston Villa,Tottenham,99,5.41,H
+Man United,Everton,5,-2.67,D
+Arsenal,Chelsea,90,1.61,A
+Sunderland,Man United,-252,-6.77,A
+Bournemouth,Liverpool,-185,-10.27,A
+Newcastle,Man City,-91,-7.7,A
+Forest,Fulham,21,-4.17,H
+West Ham,Man City,-210,-2.94,A
+Crystal Palace,Man United,36,1.88,A
+Liverpool,Man United,194,5.7,H
+Arsenal,Fulham,211,-4.78,D
+Burnley,Brentford,-81,-8.28,H
+Man City,Arsenal,-33,1.83,D
+Everton,West Ham,44,-10.24,H
+Brighton,Leeds,105,6.88,D
+West Ham,Burnley,20,-6.59,D
+Arsenal,Tottenham,219,7.78,H
+Burnley,Brentford,-81,-4.73,H
+Fulham,Burnley,52,5.22,D
+Brentford,Bournemouth,3,12.88,H
+Aston Villa,Man City,-87,-11.6,A
+Sunderland,Burnley,-183,-2.68,D
+Crystal Palace,Everton,41,-5.81,H
+Bournemouth,Leeds,86,4.19,H
+Brighton,Burnley,97,1.95,A
+Aston Villa,Burnley,143,3.75,H
+Brentford,Forest,8,-3.41,D
+Chelsea,Bournemouth,95,4.48,H
+Liverpool,Newcastle,124,-2.92,D
+Newcastle,Wolves,133,8.01,H
+Man City,Arsenal,-33,-2.13,D
+Brentford,Bournemouth,3,-5.54,H
+Burnley,Brighton,-97,3.61,H
+Chelsea,Forest,100,1.63,H
+Liverpool,Newcastle,124,10.5,H
+Man City,Fulham,178,7.95,H
+Forest,Brighton,-24,-3.67,A
+Newcastle,Chelsea,-34,-0.85,D
+Bournemouth,Chelsea,-95,-1.33,A
+Liverpool,Fulham,211,12.12,H
+Crystal Palace,Newcastle,-34,0.57,H
+Brentford,Crystal Palace,-24,-0.01,H
+Brentford,Everton,17,-0.29,D
+Man United,Crystal Palace,-36,-1.27,H
+West Ham,Brighton,-77,3.35,A
+Bournemouth,Aston Villa,-65,-1.57,A
+Wolves,Crystal Palace,-99,-4.4,A
+Forest,Fulham,21,-1.63,D
+Newcastle,Forest,66,-0.6,H
+Aston Villa,Sunderland,326,-0.22,H
+Crystal Palace,West Ham,85,-0.95,H
+Man United,Liverpool,-194,2.74,H
+Aston Villa,Brighton,46,0.08,H
+Leeds,Newcastle,-147,0.84,H
+Bournemouth,Man United,9,-9.69,A
+Burnley,Newcastle,-139,-1.51,H
+Fulham,Sunderland,235,4.87,H
+Crystal Palace,Newcastle,-34,-3.11,A
+Aston Villa,Forest,70,1.75,A
+Tottenham,Man City,-186,-6.72,A
+Crystal Palace,Leeds,113,-5.32,H
+Aston Villa,Leeds,151,7.06,D
+Leeds,West Ham,-28,0.41,H
+Bournemouth,Brighton,-19,-1.64,D
+Liverpool,Arsenal,0,-3.86,H
+Bournemouth,Tottenham,34,-4.7,H
+Bournemouth,Brentford,-3,0.81,A
+Burnley,Sunderland,183,10.36,D
+Tottenham,Fulham,-8,0.57,A
+Chelsea,Forest,100,-4.11,D
+Chelsea,Sunderland,356,7.58,H
+Everton,Wolves,58,0.64,D
+Liverpool,Bournemouth,185,8.96,H
+Crystal Palace,Liverpool,-158,-2.47,D
+Man City,Arsenal,-33,-12.76,H
+Liverpool,Brentford,182,5.29,H
+Leeds,Man United,-77,-6.25,H
+Arsenal,Liverpool,0,-5.69,D
+Liverpool,Man City,33,0.23,H
+Leeds,Tottenham,-52,0.36,D
+Chelsea,West Ham,153,-3.84,H
+Wolves,Liverpool,-257,-0.08,H
+Liverpool,Forest,190,6.26,H
+Chelsea,Arsenal,-90,-1.97,H
+Man City,Tottenham,186,0.48,A
+Tottenham,Wolves,38,-2.97,D
+Everton,Burnley,64,5.36,H
+Bournemouth,Man United,9,-5.73,H
+Aston Villa,Everton,79,5.79,D
+Arsenal,Leeds,271,6.29,H
+Man United,Everton,5,-0.28,D
+Aston Villa,Brentford,62,-5.31,H
+Man United,West Ham,49,0.86,D
+Fulham,Man United,-17,2.11,A
+Wolves,Brighton,-91,-7.09,D
+Bournemouth,Forest,5,2.09,H
+Liverpool,Burnley,263,7.2,H
+Newcastle,Liverpool,-124,-4.3,H
+Burnley,Liverpool,-263,-1.47,A
+Forest,Arsenal,-190,-13.62,A
+Everton,Man United,-5,1.24,A
+Bournemouth,Tottenham,34,7.32,D
+Chelsea,Aston Villa,30,6.21,H
+Burnley,Chelsea,-173,-0.69,A
+West Ham,Burnley,20,-0.71,H
+Sunderland,West Ham,-203,-8.41,D
+Burnley,Everton,-64,-2.15,A
+Newcastle,Bournemouth,61,4.27,H
+Newcastle,Brentford,58,-1.52,A
+Aston Villa,Liverpool,-120,1.36,A
+Leeds,Chelsea,-181,5.44,A
+Man United,Burnley,69,1.1,D
+Bournemouth,Crystal Palace,-27,-6.32,D
+Sunderland,Tottenham,-227,-9.88,H
+Everton,Tottenham,20,3.51,D
+Leeds,Crystal Palace,-113,-2.36,A
+Sunderland,Aston Villa,-326,-1.88,A
+Arsenal,Fulham,211,0.45,H
+Brighton,Arsenal,-166,0.42,H
+Tottenham,Bournemouth,-34,-1.14,D
+Wolves,Burnley,6,-2.75,D
+Man City,Tottenham,186,3.13,D
+Crystal Palace,West Ham,85,-2.74,A
+Forest,Arsenal,-190,5.55,H
+West Ham,Chelsea,-153,-3.11,D
+Man City,Newcastle,91,5.63,H
+Everton,Newcastle,-75,-3.6,H
+Newcastle,Chelsea,-34,-4.71,D
+Aston Villa,Sunderland,326,2.3,H
+Forest,Chelsea,-100,1.08,D
+Brentford,Tottenham,37,-1.53,H
+Everton,Man United,-5,-3.61,D
+Crystal Palace,Everton,41,2.04,A
+Wolves,Aston Villa,-137,-1.75,H
+Arsenal,Crystal Palace,158,10.07,H
+Burnley,Everton,-64,0.16,A
+Liverpool,Newcastle,124,4.3,D
+Tottenham,Fulham,-8,2.76,A
+Crystal Palace,Liverpool,-158,-9.51,H
+Brighton,Arsenal,-166,-6.03,A
+Liverpool,Tottenham,219,-1.69,A
+Tottenham,Everton,-20,-6.03,D
+Chelsea,Liverpool,-90,1.02,D
+Fulham,Burnley,52,2.19,A
+Tottenham,Liverpool,-219,-4.97,H
+Wolves,Sunderland,189,-6.38,D
+Tottenham,Aston Villa,-99,4.93,A
+Crystal Palace,Sunderland,288,1.54,H
+Tottenham,Leeds,52,9.75,D
+Wolves,Crystal Palace,-99,-9.09,D
+Crystal Palace,West Ham,85,-1.2,A
+Man City,Aston Villa,87,-7.14,A
+Burnley,Bournemouth,-78,-1.2,A
+Man City,Aston Villa,87,-2.73,H
+Man United,Bournemouth,-9,-4.43,A
+Aston Villa,Burnley,143,-2.26,A
+Man City,Brentford,149,7.78,H
+West Ham,Arsenal,-243,0.03,A
+Man City,Crystal Palace,125,11.29,H
+Fulham,West Ham,32,-1.63,A
+Fulham,Forest,-21,0.14,H
+Arsenal,Man United,194,-1.09,H
+Chelsea,Brentford,92,0.42,A
+West Ham,Newcastle,-119,-4.84,A
+Forest,Man United,4,1.92,A
+Man City,Everton,166,9.15,H
+Sunderland,Burnley,-183,-0.72,H
+Newcastle,Everton,75,-1.55,D
+Liverpool,Sunderland,446,9.9,H
+Leeds,Wolves,-14,-0.6,A
+Liverpool,Arsenal,0,-1.3,D
+Man United,Brighton,-28,-3.81,D
+Sunderland,Brighton,-280,-9.31,H
+Man United,Liverpool,-194,1.28,D
+Man United,Chelsea,-104,-1.72,A
+Brighton,West Ham,77,2.94,D
+Man City,Brighton,133,1.39,H
+Man United,Man City,-161,7.66,H
+Burnley,Newcastle,-139,2.06,D
+Arsenal,Newcastle,124,1.13,H
+Burnley,Chelsea,-173,-3.34,A
+Brentford,Man City,-149,-4.2,A
+Forest,West Ham,53,1.37,H
+Chelsea,Wolves,167,0.84,D
+Everton,Bournemouth,-14,1.55,H
+Chelsea,Everton,109,8.89,H
+Newcastle,Leeds,147,-0.63,H
+Tottenham,Wolves,38,-3.38,H
+Arsenal,Liverpool,0,-1.93,D
+Brentford,Sunderland,264,2.17,D
+Man United,Arsenal,-194,3.93,A
+Man City,Liverpool,-33,3.51,H
+Newcastle,Brentford,58,4.92,D
+Crystal Palace,Tottenham,61,0.44,H
+Fulham,Arsenal,-211,-6.3,A
+Sunderland,Newcastle,-322,-9.03,D
+Wolves,Newcastle,-133,-1.13,D
+Chelsea,Brighton,76,3.81,H
+Liverpool,Sunderland,446,13.41,D
+Arsenal,Crystal Palace,158,2.65,A
+Man United,Aston Villa,-74,-2.36,D
+Chelsea,Man City,-57,-1.0,A
+Aston Villa,Chelsea,-30,2.52,H
+Wolves,Man City,-224,-8.56,A
+Burnley,Man United,-69,1.26,H
+Wolves,Brentford,-75,-1.17,H
+Newcastle,Bournemouth,61,-2.74,D
+Everton,Wolves,58,-6.34,D
+Everton,Man United,-5,-0.72,D
+Chelsea,Leeds,181,8.89,H
+Man United,Brighton,-28,6.14,H
+Forest,Crystal Palace,-32,0.63,H
+Brighton,Wolves,91,9.59,H
+West Ham,Crystal Palace,-85,-1.4,D
+Fulham,Man City,-178,0.75,H
+Forest,Tottenham,29,-1.08,H
+Tottenham,Brentford,-37,-2.98,D
+West Ham,Arsenal,-243,-9.27,A
+Man United,Fulham,17,-7.82,A
+Newcastle,Aston Villa,-4,5.07,H
+West Ham,Burnley,20,-1.97,D
+Tottenham,Wolves,38,-2.07,D
+Sunderland,Brighton,-280,-9.77,D
+Man City,Man United,161,2.73,H
+Brentford,Man United,12,7.29,H
+Leeds,Fulham,-60,6.31,A
+Forest,Arsenal,-190,-12.25,H
+Leeds,Crystal Palace,-113,-3.01,A
+Liverpool,Chelsea,90,-2.41,D
+Liverpool,Fulham,211,7.39,H
+West Ham,Arsenal,-243,-5.41,A
+Brighton,Forest,24,-2.19,D
+Forest,Tottenham,29,0.87,H
+Brentford,Leeds,89,-0.2,D
+Brentford,Newcastle,-58,5.03,D
+Leeds,Liverpool,-271,-1.79,D
+Arsenal,Tottenham,219,7.08,D
+West Ham,Liverpool,-243,-15.0,A
+Burnley,Arsenal,-263,-7.11,D
+Fulham,Sunderland,235,11.09,A
+Brighton,Burnley,97,6.69,D
+Chelsea,Tottenham,129,-5.61,D
+Fulham,Wolves,46,0.34,H
+Bournemouth,Arsenal,-185,-9.52,D
+Man City,Arsenal,-33,6.02,H
+Brighton,Crystal Palace,-8,0.74,D
+Sunderland,Liverpool,-446,-8.98,A
+Newcastle,Burnley,139,2.66,D
+Chelsea,Arsenal,-90,-12.59,H
+Fulham,Forest,-21,-4.97,A
+Chelsea,Burnley,173,2.39,D
+Leeds,Tottenham,-52,1.84,A
+Burnley,Aston Villa,-143,-11.0,A
+Sunderland,Bournemouth,-261,-4.45,A
+Leeds,Forest,-81,2.47,H
+Aston Villa,West Ham,123,-2.96,D
+Aston Villa,Brentford,62,2.13,A
+Crystal Palace,Newcastle,-34,-0.41,D
+Bournemouth,West Ham,58,8.57,H
+Burnley,Fulham,-52,-2.2,A
+Tottenham,Bournemouth,-34,-1.53,H
+Everton,Liverpool,-199,-1.54,D
+Burnley,Forest,-73,-6.37,H
+Everton,Burnley,64,0.37,H
+Brighton,Sunderland,280,1.21,H
+Brentford,West Ham,61,1.54,D
+Forest,Chelsea,-100,1.97,A
+Arsenal,Man United,194,7.91,H
+Tottenham,Wolves,38,-2.43,D
+Fulham,Leeds,60,1.72,A
+Tottenham,Arsenal,-219,0.68,A
+Forest,Newcastle,-66,-5.58,H
+West Ham,Bournemouth,-58,-0.27,H
+Leeds,Arsenal,-271,-4.75,A
+Man United,Burnley,69,2.1,A
+Brentford,Man City,-149,-9.19,A
+Man City,Fulham,178,8.7,H
+West Ham,Leeds,28,-2.26,A
+Leeds,Fulham,-60,3.22,D
+Fulham,West Ham,32,-1.37,D
+Burnley,Newcastle,-139,-6.92,A
+Burnley,Wolves,-6,4.64,A
+West Ham,Brentford,-61,2.78,D
+Forest,Arsenal,-190,-1.57,A
+Arsenal,Brighton,166,6.68,H
+Liverpool,Crystal Palace,158,1.64,H
+Aston Villa,Forest,70,2.35,H
+Brentford,Newcastle,-58,-4.36,A
+Tottenham,Bournemouth,-34,2.43,D
+Bournemouth,Brentford,-3,-2.86,D
+Liverpool,Crystal Palace,158,10.14,H
+Aston Villa,Fulham,91,0.04,D
+Sunderland,Crystal Palace,-288,-2.99,A
+Sunderland,West Ham,-203,0.52,D
+Brighton,Newcastle,-42,-0.94,H
+Wolves,Burnley,6,-1.07,H
+Tottenham,Brighton,-53,-1.95,A
+Leeds,Liverpool,-271,0.6,A
+Burnley,Man City,-230,-9.0,A
+Everton,Wolves,58,1.2,H
+Brighton,Burnley,97,1.43,D
+Everton,Aston Villa,-79,2.31,D
+Crystal Palace,Everton,41,0.41,A
+Crystal Palace,Man United,36,7.95,H
+Everton,Man City,-166,-3.53,H
+Man United,Bournemouth,-9,-1.18,D
+Man United,Fulham,17,-0.43,H
+Brighton,Sunderland,280,-2.24,H
+Brentford,Wolves,75,-1.96,A
+Liverpool,Arsenal,0,-2.12,H
+Everton,Aston Villa,-79,3.01,D
+Man United,Brentford,-12,-0.55,D
+Leeds,Chelsea,-181,-5.04,A
+Forest,Man United,4,4.99,D
+Bournemouth,Liverpool,-185,3.85,H
+Arsenal,Man City,33,5.84,D
+Chelsea,Liverpool,-90,-5.57,D
+Crystal Palace,Newcastle,-34,-2.99,A
+Brighton,West Ham,77,8.37,H
+Brighton,Chelsea,-76,-0.14,H
+Brighton,Sunderland,280,3.98,D
+West Ham,Newcastle,-119,1.21,D
+Man City,Liverpool,-33,3.54,H
+Crystal Palace,Brentford,24,-1.57,D
+Chelsea,Tottenham,129,5.03,A
+Crystal Palace,Man City,-125,0.82,A
+Fulham,Arsenal,-211,-7.22,D
+Liverpool,Wolves,257,6.81,H
+Crystal Palace,Man United,36,-3.56,H
+Liverpool,Crystal Palace,158,0.26,H
+Sunderland,West Ham,-203,-4.77,A
+Tottenham,Wolves,38,2.85,H
+Aston Villa,Brighton,46,-0.61,H
+Chelsea,Man United,104,0.36,A
+Arsenal,Liverpool,0,0.21,H
+Bournemouth,Crystal Palace,-27,-5.53,A
+West Ham,Man United,-49,0.99,D
+Man United,Chelsea,-104,1.57,D
+Burnley,Sunderland,183,2.02,H
+Crystal Palace,Sunderland,288,5.33,H
+Newcastle,Brentford,58,2.92,H
+Bournemouth,Brighton,-19,-8.78,D
+Aston Villa,Chelsea,-30,1.25,A
+Sunderland,Forest,-256,8.55,A
+Chelsea,Man City,-57,-1.33,H
+Bournemouth,Brighton,-19,-0.95,H
+Forest,Man United,4,3.07,H
+Arsenal,Everton,199,9.06,A
+Bournemouth,Man United,9,4.12,H
+Bournemouth,Aston Villa,-65,-9.89,H
+Newcastle,West Ham,119,4.47,H
+Man City,Fulham,178,12.58,H
+Liverpool,West Ham,243,6.24,H
+Liverpool,Bournemouth,185,-1.47,D
+Bournemouth,Burnley,78,2.26,H
+Arsenal,Brighton,166,-1.49,H
+Sunderland,Wolves,-189,1.74,H
+Aston Villa,Brighton,46,-3.14,H
+Fulham,Aston Villa,-91,-1.88,A
+Fulham,Forest,-21,-3.75,D
+Bournemouth,Man United,9,-1.87,A
+Burnley,Tottenham,-44,4.86,H
+Man City,Newcastle,91,3.47,D
+Aston Villa,Burnley,143,2.29,A
+Newcastle,Crystal Palace,34,-3.4,H
+Man City,Forest,157,-4.01,A
+Newcastle,Leeds,147,-1.7,D
+Crystal Palace,Forest,32,1.4,D
+West Ham,Fulham,-32,3.44,H
+Crystal Palace,Leeds,113,1.46,D
+Burnley,Sunderland,183,9.4,H
+West Ham,Bournemouth,-58,-3.72,A
+Leeds,Brentford,-89,-2.66,A
+Man City,Chelsea,57,-3.2,H
+Sunderland,Forest,-256,1.07,A
+Everton,Leeds,72,10.49,A
+Sunderland,Bournemouth,-261,-9.97,A
+Brighton,Crystal Palace,-8,-1.66,H
+Sunderland,Man City,-413,-0.75,H
+Man United,Brighton,-28,-6.62,H
+Arsenal,Aston Villa,120,4.5,H
+Brentford,Sunderland,264,7.83,A
+Man City,Forest,157,2.4,H
+Leeds,Man City,-238,-3.35,A
+Crystal Palace,Arsenal,-158,2.85,A
+Aston Villa,Burnley,143,10.38,H
+Man United,Leeds,77,1.25,H
+Brentford,West Ham,61,-0.04,D
+Arsenal,Man City,33,-2.53,D
+Wolves,Arsenal,-257,-0.92,A
+Wolves,Chelsea,-167,-8.41,H
+Tottenham,West Ham,24,-0.53,D
+Everton,West Ham,44,1.5,H
+Brentford,Wolves,75,-0.19,D
+Forest,Arsenal,-190,-1.28,D
+Forest,Chelsea,-100,8.83,H
+Chelsea,Leeds,181,3.38,D
+Arsenal,Leeds,271,4.22,H
+Newcastle,Tottenham,95,5.42,A
+Bournemouth,Man City,-152,-2.43,A
+Chelsea,Arsenal,-90,4.46,H
+Man City,Arsenal,-33,0.0,H
+Burnley,Fulham,-52,-2.53,H
+Brighton,Wolves,91,-5.39,A
+Man United,Everton,5,-6.38,D
+Forest,Newcastle,-66,-9.6,H
+Tottenham,West Ham,24,1.88,D
+Tottenham,Arsenal,-219,-8.09,H
+Newcastle,Wolves,133,9.28,H
+Wolves,Burnley,6,0.27,D
+Brighton,Tottenham,53,-0.19,H
+Wolves,Burnley,6,-3.23,A
+Brentford,Man United,12,2.79,H
+Man City,Bournemouth,152,-0.5,H
+West Ham,Crystal Palace,-85,-5.99,A
+Liverpool,Leeds,271,10.71,A
+West Ham,Fulham,-32,0.78,D
+Liverpool,Chelsea,90,2.08,A
+Aston Villa,Sunderland,326,7.96,H
+Everton,Arsenal,-199,-5.75,A
+Leeds,Man United,-77,0.41,H
+Brentford,Chelsea,-92,-5.03,A
+Man City,Fulham,178,12.87,H
+Aston Villa,Brentford,62,-0.19,A
+Burnley,Brentford,-81,4.66,A
+Tottenham,Fulham,-8,-1.04,D
+Man City,West Ham,210,5.8,H
+Brighton,Tottenham,53,4.24,D
+Newcastle,Sunderland,322,8.88,H
+Chelsea,Bournemouth,95,-1.1,D
+Wolves,Chelsea,-167,-0.8,A
+Everton,Liverpool,-199,2.42,D
+Chelsea,Aston Villa,30,-0.14,H
+Fulham,Aston Villa,-91,-1.6,A
+Brentford,Forest,8,-1.81,H
+Arsenal,Crystal Palace,158,2.11,D
+Brentford,Bournemouth,3,6.94,H
+Chelsea,Wolves,167,0.36,H
+Aston Villa,Man United,74,-1.61,H
+Burnley,Arsenal,-263,0.57,D
+Tottenham,Liverpool,-219,-1.9,A
+Man City,Bournemouth,152,12.55,H
+Burnley,Brentford,-81,-4.54,A
+Man United,Burnley,69,1.85,D
+Burnley,Man United,-69,-4.33,H
+Tottenham,West Ham,24,0.93,H
+Crystal Palace,Man United,36,-6.38,D
+Forest,Crystal Palace,-32,1.79,D
+Forest,Fulham,21,1.92,D
+Tottenham,Everton,-20,-0.63,H
+Aston Villa,Tottenham,99,0.79,D
+Crystal Palace,Chelsea,-68,-5.9,H
+Aston Villa,Everton,79,4.06,D
+Newcastle,Sunderland,322,-1.46,H
+Chelsea,West Ham,153,4.78,H
+Liverpool,West Ham,243,13.92,H
+Leeds,Everton,-72,4.54,A
+Arsenal,Leeds,271,0.93,H
+Burnley,Forest,-73,-4.63,D
+Liverpool,Chelsea,90,3.84,H
+West Ham,Everton,-44,-1.15,D
+Crystal Palace,West Ham,85,-4.37,H
+Forest,Man City,-157,-3.33,H
+Newcastle,Man City,-91,-3.09,A
+Bournemouth,Newcastle,-61,6.16,H
+Bournemouth,Wolves,72,0.74,H
+Forest,Bournemouth,-5,4.52,A
+Brighton,Sunderland,280,0.99,D
+Forest,Burnley,73,-3.05,A
+Wolves,Man United,-63,1.04,H
+Brentford,Fulham,29,5.35,D
+Brighton,Crystal Palace,-8,-4.07,A
+Man City,Arsenal,-33,-0.72,H
+Brighton,Crystal Palace,-8,-5.73,A
+Man City,Man United,161,2.11,H
+Chelsea,Everton,109,6.43,A
+Sunderland,Aston Villa,-326,-6.05,A
+Arsenal,Liverpool,0,-1.0,D
+Bournemouth,Tottenham,34,-3.84,D
+Wolves,Burnley,6,-2.47,H
+Sunderland,Wolves,-189,3.84,H
+Man City,Brighton,133,2.12,D
+Chelsea,Man United,104,-1.06,D
+Brighton,Sunderland,280,3.79,H
+Man United,Fulham,17,-5.8,H
+Sunderland,Newcastle,-322,-7.28,A
+Aston Villa,Crystal Palace,38,6.57,H
+Chelsea,Tottenham,129,1.21,H
+Newcastle,Brentford,58,8.99,A
+Burnley,Wolves,-6,-0.53,D
+Liverpool,Burnley,263,4.75,H
+Brighton,Liverpool,-166,-1.79,A
+Man City,Tottenham,186,-5.16,H
+Chelsea,Brighton,76,2.29,A
+Leeds,Forest,-81,-2.94,A
+Liverpool,Newcastle,124,7.67,H
+Crystal Palace,Brighton,8,4.02,H
+Leeds,Crystal Palace,-113,-6.65,H
+Everton,Arsenal,-199,-0.82,D
+Arsenal,West Ham,243,1.76,H
+Bournemouth,Man City,-152,-6.33,H
+Sunderland,Brighton,-280,-4.26,A
+Brentford,Chelsea,-92,-3.89,A
+Forest,Chelsea,-100,3.78,H
+Forest,Brighton,-24,0.53,D
+Fulham,Leeds,60,2.59,A
+Chelsea,Leeds,181,8.25,D
+Wolves,Brighton,-91,1.76,A
+Sunderland,Forest,-256,0.24,A
+Man City,Sunderland,413,11.48,H
+Wolves,Aston Villa,-137,-0.68,D
+Wolves,Leeds,14,0.95,A
+Tottenham,Man City,-186,2.59,A
+Brighton,Aston Villa,-46,-1.05,A
+Bournemouth,Crystal Palace,-27,-0.67,A
+Wolves,Liverpool,-257,1.09,H
+Chelsea,Wolves,167,9.41,H
+Wolves,Burnley,6,0.15,D
+Leeds,Brighton,-105,-4.79,H
+Fulham,Wolves,46,7.44,H
+Crystal Palace,West Ham,85,6.07,D
+Man United,Wolves,63,3.42,D
+Arsenal,Wolves,257,1.61,H
+Leeds,Man United,-77,-0.91,A
+Crystal Palace,Man City,-125,-2.4,H
+Arsenal,Leeds,271,2.31,A
+West Ham,Everton,-44,-0.79,H
+Fulham,Leeds,60,2.83,A
+Everton,Sunderland,247,3.23,H
+Arsenal,Chelsea,90,6.64,H
+West Ham,Brentford,-61,4.26,D
+Everton,Chelsea,-109,2.34,H
+West Ham,Arsenal,-243,-3.92,D
+Wolves,Sunderland,189,8.61,D
+Aston Villa,Leeds,151,3.69,D
+Aston Villa,Leeds,151,-1.57,H
+Leeds,Burnley,-8,2.45,D
+Forest,Everton,9,0.81,A
+Brentford,Forest,8,10.57,A
+Newcastle,Sunderland,322,9.05,H
+Everton,Man United,-5,2.77,H
+West Ham,Everton,-44,-0.53,A
+Liverpool,Aston Villa,120,3.44,H
+Man United,Tottenham,25,-3.64,H
+Sunderland,Wolves,-189,-10.15,A
+Newcastle,Fulham,87,-1.82,H
+Newcastle,Bournemouth,61,1.01,A
+Burnley,Chelsea,-173,-11.42,H
+Arsenal,Liverpool,0,-2.18,A
+Brighton,Everton,33,-0.5,A
+Bournemouth,Fulham,26,-0.34,A
+West Ham,Leeds,28,-1.95,A
+Man City,Sunderland,413,4.44,D
+Brentford,Bournemouth,3,7.0,H
+Chelsea,Wolves,167,7.76,A
+West Ham,Tottenham,-24,-2.72,A
+Everton,Newcastle,-75,-2.09,D
+Bournemouth,Wolves,72,0.94,H
+Brighton,Arsenal,-166,-7.43,H
+Chelsea,Man United,104,-1.6,D
+Leeds,West Ham,-28,3.62,D
+Everton,Fulham,12,-1.32,D
+Crystal Palace,Leeds,113,-2.79,H
+Brentford,Arsenal,-182,-4.06,A
+Tottenham,Forest,-29,0.04,H
+Tottenham,West Ham,24,-7.17,A
+Bournemouth,Everton,14,0.26,H
+Crystal Palace,Burnley,105,5.95,H
+Fulham,Bournemouth,-26,0.9,H
+Fulham,Aston Villa,-91,6.74,A
+Man United,Brentford,-12,4.82,A
+Arsenal,Burnley,263,8.73,H
+Bournemouth,Man City,-152,8.49,H
+Everton,Newcastle,-75,1.58,D
+Sunderland,Arsenal,-446,-4.07,H
+Forest,Tottenham,29,4.47,D
+Crystal Palace,Aston Villa,-38,-3.18,H
+Man United,Crystal Palace,-36,-0.11,D
+Chelsea,Wolves,167,1.79,H
+Arsenal,Brighton,166,4.5,H
+Fulham,Man City,-178,-7.2,D
+Sunderland,Liverpool,-446,-8.65,H
+Wolves,Aston Villa,-137,-2.71,H
+Man United,Leeds,77,1.32,H
+Liverpool,Forest,190,-4.5,H
+Sunderland,Aston Villa,-326,-11.21,A
+Brentford,Aston Villa,-62,-6.41,H
+Newcastle,Brighton,42,-2.49,H
+Burnley,Chelsea,-173,-2.09,H
+Tottenham,Brighton,-53,-0.43,A
+Tottenham,Man United,-25,3.76,A
+Newcastle,Wolves,133,5.45,D
+Sunderland,Brighton,-280,-2.78,A
+Bournemouth,West Ham,58,4.14,D
+Forest,Everton,9,0.97,H
+West Ham,Newcastle,-119,0.52,A
+Fulham,Leeds,60,5.44,D
+Chelsea,Brentford,92,2.83,H
+Crystal Palace,Chelsea,-68,3.09,D
+Brighton,Sunderland,280,-4.34,H
+Leeds,Burnley,-8,-1.44,H
+Tottenham,Liverpool,-219,-5.63,A
+Brighton,Leeds,105,7.09,H
+Tottenham,Leeds,52,7.31,D
+Tottenham,Wolves,38,-5.05,A
+Brighton,Newcastle,-42,4.4,D
+Brentford,Everton,17,-4.09,H
+Burnley,Forest,-73,-7.05,A
+Man United,Everton,5,-0.79,A
+Man City,Everton,166,3.08,H
+Tottenham,Everton,-20,-6.73,H
+Man United,Forest,-4,2.52,D
+Forest,Fulham,21,3.35,A
+Tottenham,Forest,-29,3.64,H
+Leeds,Liverpool,-271,-5.71,D
+Crystal Palace,Liverpool,-158,-5.05,A
+Brentford,Sunderland,264,4.78,H
+Chelsea,Leeds,181,9.85,H
+Everton,Man United,-5,-11.51,D
+Brentford,Chelsea,-92,-6.91,H
+Crystal Palace,West Ham,85,1.66,H
+Fulham,Man City,-178,-8.17,A
+Brentford,Brighton,-16,-1.43,D
+Bournemouth,Crystal Palace,-27,-1.31,D
+Brentford,Liverpool,-182,-8.07,D
+Newcastle,Wolves,133,3.3,H
+Man City,Forest,157,6.69,H
+Wolves,Crystal Palace,-99,-3.3,A
+Arsenal,Forest,190,3.8,D
+Crystal Palace,Liverpool,-158,-4.16,A
+Fulham,Brentford,-29,-0.61,A
+Man City,Forest,157,-3.48,A
+Fulham,Crystal Palace,-53,0.02,H
+Tottenham,Wolves,38,-0.67,A
+Fulham,Aston Villa,-91,3.74,A
+Crystal Palace,Man City,-125,0.63,H
+Liverpool,Forest,190,8.69,H
+Burnley,Bournemouth,-78,-6.69,A
+Crystal Palace,Brighton,8,-1.29,D
+Wolves,Liverpool,-257,-9.8,A
+Chelsea,Sunderland,356,3.86,H
+Chelsea,Brentford,92,7.21,H
+West Ham,Chelsea,-153,1.18,H
+Leeds,Everton,-72,-6.69,A
+Burnley,Crystal Palace,-105,-4.81,H
+West Ham,Leeds,28,0.53,D
+Aston Villa,Newcastle,4,2.46,H
+Leeds,Man United,-77,-8.16,D
+Fulham,Forest,-21,-6.94,D
+Chelsea,Aston Villa,30,2.41,H
+Man City,Bournemouth,152,-4.4,D
+Burnley,Man City,-230,-4.51,A
+Newcastle,Everton,75,2.47,H
+West Ham,Arsenal,-243,-2.09,D
+Man City,Sunderland,413,2.92,D
+Newcastle,Crystal Palace,34,-0.96,D
+Newcastle,Wolves,133,6.42,H
+Newcastle,Forest,66,2.11,D
+Fulham,Everton,-12,-3.01,H
+Leeds,Sunderland,175,4.68,H
+Leeds,Liverpool,-271,-4.43,A
+Tottenham,Aston Villa,-99,5.46,A
+Aston Villa,Newcastle,4,3.27,A
+Sunderland,Newcastle,-322,-1.58,H
+Forest,Bournemouth,-5,-2.54,D
+Forest,Burnley,73,-1.03,D
+Tottenham,Liverpool,-219,-5.34,H
+West Ham,Wolves,14,-0.15,D
+Sunderland,Everton,-247,-6.87,A
+Man United,Everton,5,5.14,H
+Everton,Fulham,12,3.77,H
+Tottenham,Man City,-186,-5.17,H
+Newcastle,Tottenham,95,4.83,A
+Crystal Palace,Aston Villa,-38,-0.05,H
+Everton,Forest,-9,2.7,H
+Arsenal,Fulham,211,-2.8,H
+Crystal Palace,Everton,41,0.03,H
+Tottenham,Crystal Palace,-61,-1.13,H
+Sunderland,Brighton,-280,-3.56,A
+Forest,Bournemouth,-5,-2.66,H
+Brighton,Liverpool,-166,-13.63,D
+Brentford,Tottenham,37,-3.78,H
+Fulham,Arsenal,-211,-4.54,D
+Forest,Bournemouth,-5,0.08,H
+Liverpool,Fulham,211,10.17,H
+Forest,Arsenal,-190,-1.68,A
+Brentford,Sunderland,264,5.23,D
+Tottenham,Brighton,-53,-1.17,H
+Burnley,Liverpool,-263,-0.47,A
+Sunderland,Fulham,-235,-6.96,A
+Everton,Man United,-5,-0.69,H
+Brighton,Everton,33,-3.37,D
+Brentford,West Ham,61,7.17,D
+Chelsea,Bournemouth,95,2.93,H
+Leeds,Wolves,-14,-3.04,D
+Wolves,Brighton,-91,-2.64,A
+Burnley,Forest,-73,-0.45,H
+Crystal Palace,Chelsea,-68,-2.0,A
+Crystal Palace,Everton,41,-1.53,H
+Burnley,Newcastle,-139,-6.4,H
+Forest,Fulham,21,1.88,H
+Tottenham,Wolves,38,-0.68,H
+Bournemouth,Burnley,78,-0.3,A
+Brentford,Leeds,89,-2.78,A
+Everton,Man City,-166,-3.32,A
+Wolves,Man City,-224,-6.08,A
+Crystal Palace,Leeds,113,0.83,H
+Wolves,Brighton,-91,-1.38,D
+Aston Villa,Liverpool,-120,-0.91,H
+Brentford,Newcastle,-58,1.67,A
+Leeds,Wolves,-14,1.93,D
+Sunderland,Brighton,-280,-3.99,D
+Leeds,Arsenal,-271,-8.23,A
+Crystal Palace,Tottenham,61,-3.28,A
+Wolves,Chelsea,-167,-5.29,H
+Leeds,Brighton,-105,-2.9,A
+Sunderland,Liverpool,-446,-6.69,A
+Liverpool,Everton,199,6.17,D
+Tottenham,Brentford,-37,-4.78,H
+Sunderland,Burnley,-183,-9.77,H
+West Ham,Crystal Palace,-85,1.23,D
+Aston Villa,Liverpool,-120,-5.24,A
+West Ham,Chelsea,-153,-6.76,A
+Man City,Aston Villa,87,-1.45,D
+Bournemouth,West Ham,58,3.69,H
+Everton,Arsenal,-199,2.19,H
+Bournemouth,Brentford,-3,-1.7,D
+Fulham,Burnley,52,0.16,H
+Aston Villa,West Ham,123,8.27,H
+Everton,Aston Villa,-79,-8.77,A
+Everton,Burnley,64,9.12,H
+Everton,West Ham,44,11.08,H
+Newcastle,Fulham,87,-8.32,H
+Crystal Palace,Burnley,105,1.1,H
+Newcastle,Man City,-91,-5.06,A
+Bournemouth,Wolves,72,0.34,H
+Man United,Newcastle,-70,-3.72,H
+Brighton,Tottenham,53,4.55,H
+Brentford,Leeds,89,2.54,H
+Newcastle,Bournemouth,61,-1.55,D
+Aston Villa,Arsenal,-120,-4.04,A
+Fulham,Brighton,-45,0.72,D
+Wolves,Brentford,-75,-7.28,D
+Newcastle,Leeds,147,-4.6,H
+Burnley,Leeds,8,8.21,H
+Man United,Everton,5,-2.42,H
+Chelsea,Sunderland,356,2.79,A
+Brighton,Brentford,16,-1.03,H
+Liverpool,Brentford,182,6.86,H
+Liverpool,Wolves,257,10.96,H
+Crystal Palace,Fulham,53,3.63,D
+Bournemouth,Forest,5,-5.95,H
+West Ham,Bournemouth,-58,-7.53,A
+Man City,Tottenham,186,3.93,H
+Wolves,West Ham,-14,-1.56,A
+Aston Villa,Bournemouth,65,-4.98,D
+Man City,Liverpool,-33,2.79,H
+Fulham,Man City,-178,-9.7,H
+West Ham,Man City,-210,3.4,H
+Everton,Bournemouth,-14,7.07,A
+Man City,Everton,166,1.19,A
+Man City,Wolves,224,8.01,H
+Brighton,Aston Villa,-46,-6.06,D
+Bournemouth,West Ham,58,3.63,H
+Sunderland,Fulham,-235,-4.75,H
+Newcastle,Arsenal,-124,-7.22,A
+Chelsea,Brighton,76,1.05,H
+Leeds,Crystal Palace,-113,-5.57,H
+Chelsea,Burnley,173,2.44,A
+Liverpool,Leeds,271,9.76,H
+Brentford,Wolves,75,-0.59,D
+Brentford,Forest,8,7.22,H
+Everton,Bournemouth,-14,-5.58,A
+Burnley,Crystal Palace,-105,2.99,D
+Leeds,West Ham,-28,-4.76,D
+Newcastle,Arsenal,-124,-4.02,H
+Sunderland,Newcastle,-322,-5.18,A
+Everton,Man City,-166,-3.55,A
+Arsenal,Bournemouth,185,8.71,D
+Leeds,Newcastle,-147,2.04,A
+Man City,Chelsea,57,5.6,D
+Man United,Brighton,-28,-2.6,A
+West Ham,Burnley,20,1.04,A
+Aston Villa,Man United,74,-0.97,H
+Newcastle,Wolves,133,-1.53,H
+Bournemouth,Leeds,86,-3.34,D
+Burnley,Leeds,8,-1.47,D
+Aston Villa,Brighton,46,2.59,D
+Fulham,Burnley,52,-6.88,A
+Bournemouth,Leeds,86,1.06,D
+Man City,Sunderland,413,13.03,D
+Tottenham,Brighton,-53,3.7,H
+Wolves,Aston Villa,-137,-6.08,A
+Man United,Burnley,69,-3.23,H
+Chelsea,Leeds,181,6.48,H
+Chelsea,Leeds,181,-6.17,A
+Brentford,Man United,12,4.62,H
+Forest,Man City,-157,-5.03,D
+Man United,Brentford,-12,7.15,H
+Aston Villa,Tottenham,99,-4.55,D
+Forest,Man United,4,3.77,H
+Newcastle,Crystal Palace,34,0.61,H
+Fulham,Crystal Palace,-53,-2.37,A
+West Ham,Arsenal,-243,-11.1,H
+Fulham,Newcastle,-87,-0.13,D
+Liverpool,Fulham,211,6.14,H
+Sunderland,Aston Villa,-326,2.83,H
+Liverpool,Sunderland,446,7.58,H
+Sunderland,Arsenal,-446,-8.28,A
+Liverpool,Man United,194,-0.76,D
+Forest,Bournemouth,-5,-5.55,H
+Man City,Wolves,224,10.36,D
+Arsenal,Burnley,263,1.78,H
+Fulham,Forest,-21,5.61,H
+Tottenham,Everton,-20,1.8,D
+Man City,Fulham,178,3.61,H
+Sunderland,Forest,-256,-7.01,H
+Crystal Palace,Chelsea,-68,1.32,A
+Crystal Palace,Brentford,24,0.3,H
+Newcastle,Aston Villa,-4,-1.54,H
+Bournemouth,Aston Villa,-65,0.56,H
+Chelsea,Everton,109,1.48,D
+Brentford,Aston Villa,-62,-5.02,A
+Aston Villa,Bournemouth,65,3.99,A
+Arsenal,Wolves,257,2.64,H
+Brighton,Everton,33,2.61,D
+Fulham,Chelsea,-121,-3.5,A
+West Ham,Tottenham,-24,-5.55,H
+Brighton,Tottenham,53,7.98,H
+Crystal Palace,Wolves,99,8.54,D
+West Ham,Chelsea,-153,1.49,H
+Fulham,Sunderland,235,4.88,H
+Wolves,Man United,-63,-2.44,D
+Leeds,Newcastle,-147,2.23,H
+Wolves,Burnley,6,-1.21,A
+Leeds,Newcastle,-147,-6.49,A
+Brentford,Newcastle,-58,5.78,D
+Brighton,Wolves,91,2.86,D
+Crystal Palace,Burnley,105,8.56,H
+Aston Villa,Crystal Palace,38,-4.27,A
+Tottenham,Chelsea,-129,-0.89,H
+Tottenham,Leeds,52,9.57,H
+Wolves,West Ham,-14,-0.16,H
+Chelsea,Liverpool,-90,-3.65,D
+Bournemouth,Fulham,26,-3.76,D
+Aston Villa,Chelsea,-30,3.43,H
+Burnley,Wolves,-6,-3.17,A
+Newcastle,Arsenal,-124,-3.25,H
+Man City,Sunderland,413,2.03,H
+Man United,Chelsea,-104,4.26,H
+Burnley,Brentford,-81,2.27,D
+Leeds,Aston Villa,-151,-4.18,H
+Arsenal,Wolves,257,-1.72,H
+Crystal Palace,Brighton,8,6.34,D
+Chelsea,Tottenham,129,0.32,H
+Crystal Palace,Arsenal,-158,-7.92,A
+Forest,Bournemouth,-5,-7.15,H
+Newcastle,Leeds,147,2.04,D
+Arsenal,Leeds,271,1.13,H
+Forest,Aston Villa,-70,-4.2,A
+Arsenal,Brighton,166,6.61,D
+Aston Villa,Brentford,62,0.32,H
+Liverpool,Man United,194,6.3,H
+Arsenal,Forest,190,1.91,H
+Brentford,Man City,-149,-3.75,H
+Burnley,West Ham,-20,6.99,A
+West Ham,Aston Villa,-123,-5.38,A
+Arsenal,Crystal Palace,158,3.64,H
+Liverpool,Wolves,257,-1.43,A
+Crystal Palace,Fulham,53,7.39,D
+Fulham,Brighton,-45,-3.02,A
+Tottenham,Leeds,52,5.48,H
+Wolves,Brighton,-91,-3.11,D
+Crystal Palace,Man United,36,3.34,H
+Chelsea,Aston Villa,30,3.28,H
+Liverpool,Chelsea,90,0.35,H
+Man City,Bournemouth,152,9.12,H
+Arsenal,Man United,194,0.22,H
+Burnley,Wolves,-6,3.02,D
+Newcastle,Brighton,42,-0.1,H
+Wolves,Burnley,6,1.49,H
+Man United,Everton,5,-1.7,H
+Forest,Arsenal,-190,-5.41,A
+Bournemouth,Tottenham,34,-3.62,A
+Wolves,Man United,-63,-0.24,A
+Liverpool,Brighton,166,3.08,H
+Arsenal,Bournemouth,185,0.2,H
+Brentford,Crystal Palace,-24,-0.58,H
+Brighton,Everton,33,1.03,H
+Forest,Man United,4,-2.37,D
+Tottenham,Brentford,-37,-1.43,A
+Man United,Newcastle,-70,-5.05,H
+Newcastle,Brighton,42,10.84,H
+Crystal Palace,Bournemouth,27,5.04,D
+West Ham,Bournemouth,-58,0.24,D
+Aston Villa,Crystal Palace,38,6.01,H
+Forest,Man United,4,-7.86,H
+Forest,Aston Villa,-70,-11.94,A
+West Ham,Forest,-53,-2.9,H
+Tottenham,Man City,-186,-9.46,A
+Bournemouth,Wolves,72,1.51,D
+Crystal Palace,West Ham,85,3.69,H
+Brighton,Wolves,91,5.43,D
+Brentford,Fulham,29,-3.83,H
+Aston Villa,Tottenham,99,4.89,H
+Everton,Arsenal,-199,-4.91,D
+Aston Villa,Crystal Palace,38,2.71,A
+Everton,Fulham,12,-1.78,H
+West Ham,Wolves,14,5.81,H
+Sunderland,Man United,-252,-5.19,A
+Man City,Burnley,230,13.45,H
+West Ham,Newcastle,-119,-7.04,A
+Arsenal,Chelsea,90,5.56,D
+Crystal Palace,Arsenal,-158,-4.43,A
+Chelsea,Man United,104,1.15,D
+Chelsea,Fulham,121,4.78,D
+Chelsea,Newcastle,34,-0.35,H
+Liverpool,West Ham,243,-5.96,A
+Wolves,Tottenham,-38,-13.57,A
+Arsenal,Brighton,166,8.72,D
+Brighton,Aston Villa,-46,3.56,D
+Fulham,Tottenham,8,7.67,H
+Sunderland,Fulham,-235,-5.58,A
+Burnley,Chelsea,-173,-8.92,H
+Man City,Newcastle,91,1.37,H
+Sunderland,Bournemouth,-261,-4.83,A
+Fulham,Forest,-21,-4.55,A
+Chelsea,Aston Villa,30,7.04,H
+Brentford,Leeds,89,11.95,H
+Leeds,Brighton,-105,-1.06,A
+Brighton,Forest,24,0.79,D
+Chelsea,Arsenal,-90,-6.47,A
+Burnley,Newcastle,-139,3.66,A
+Sunderland,Aston Villa,-326,-7.24,H
+Sunderland,Aston Villa,-326,-4.39,H
+Sunderland,Bournemouth,-261,-2.95,A
+Burnley,Man United,-69,-4.03,D
+Bournemouth,Chelsea,-95,-2.59,A
+Chelsea,Wolves,167,-0.66,H
+Everton,Wolves,58,6.34,H
+Aston Villa,Wolves,137,2.08,H
+Bournemouth,Forest,5,4.76,D
+Fulham,Liverpool,-211,-5.96,A
+Leeds,Brentford,-89,-3.53,A
+Newcastle,Brighton,42,-4.23,D
+Newcastle,Leeds,147,7.66,D
+Tottenham,Burnley,44,-2.63,H
+Liverpool,Burnley,263,0.99,H
+Man United,Fulham,17,0.51,A
+Tottenham,Fulham,-8,0.24,D
+Man United,Forest,-4,-6.88,A
+Brighton,Liverpool,-166,-3.1,H
+Wolves,Brighton,-91,0.13,H
+Brighton,Tottenham,53,0.31,D
+Tottenham,Wolves,38,-0.33,A
+Bournemouth,Man United,9,0.96,H
+Liverpool,Tottenham,219,5.66,D
+Forest,Liverpool,-190,-9.73,H
+Liverpool,Bournemouth,185,3.0,D
+Leeds,Forest,-81,2.02,D
+Everton,Burnley,64,-2.01,H
+Brighton,Crystal Palace,-8,-1.78,A
+Bournemouth,Aston Villa,-65,-7.43,A
+Everton,Brighton,-33,3.27,D
+Newcastle,Chelsea,-34,-0.88,H
+Newcastle,Man United,70,-2.04,H
+Brentford,Everton,17,0.62,A
+Newcastle,Wolves,133,-2.99,D
+West Ham,Sunderland,203,-1.62,D
+Man City,Arsenal,-33,-6.82,A
+Wolves,Aston Villa,-137,-7.39,A
+Crystal Palace,Man City,-125,2.54,H
+Man United,Aston Villa,-74,-5.45,D
+Chelsea,Wolves,167,5.51,H
+Brighton,Man City,-133,-6.39,H
+West Ham,Liverpool,-243,-0.71,H
+Newcastle,Burnley,139,-0.95,D
+Man City,Sunderland,413,3.64,D
+Forest,Aston Villa,-70,-1.49,A
+Chelsea,Crystal Palace,68,11.63,H
+Crystal Palace,Forest,32,3.32,A
+Bournemouth,Forest,5,-2.27,H
+Man United,Sunderland,252,8.48,H
+Everton,Brentford,-17,7.96,A
+Fulham,Liverpool,-211,-10.82,A
+Wolves,Brentford,-75,-4.83,A
+Arsenal,Man United,194,3.93,D
+Brighton,Forest,24,-1.31,D
+Liverpool,Forest,190,4.28,H
+Liverpool,Leeds,271,-1.24,H
+Aston Villa,Wolves,137,8.11,A
+Man United,Newcastle,-70,-7.74,A
+Burnley,Brighton,-97,-2.19,D
+West Ham,Fulham,-32,3.55,H
+Everton,Brentford,-17,-0.38,H
+West Ham,Brentford,-61,-5.11,H
+Chelsea,Aston Villa,30,-4.65,A
+Wolves,Newcastle,-133,-2.75,H
+Burnley,Tottenham,-44,-3.9,D
+Arsenal,Wolves,257,6.62,A
+Bournemouth,West Ham,58,-3.61,D
+Wolves,Crystal Palace,-99,1.84,D
+Bournemouth,Man City,-152,-3.61,D
+Wolves,Chelsea,-167,-1.43,H
+Leeds,Brighton,-105,3.28,H
+Bournemouth,Forest,5,-1.58,H
+Arsenal,Burnley,263,2.97,H
+Crystal Palace,Burnley,105,-0.21,H
+Aston Villa,Liverpool,-120,-3.0,H
+Bournemouth,Tottenham,34,0.65,H
+Man United,Newcastle,-70,-5.71,A
+Bournemouth,Chelsea,-95,-9.91,H
+Chelsea,Man United,104,-0.77,H
+Crystal Palace,Liverpool,-158,-2.06,A
+Fulham,Crystal Palace,-53,-1.02,H
+Liverpool,Man United,194,8.86,H
+Aston Villa,Newcastle,4,7.96,A
+Burnley,Man United,-69,0.68,D
+Arsenal,Bournemouth,185,10.25,H
+Brentford,West Ham,61,3.96,D
+Aston Villa,Chelsea,-30,5.79,D
+Man City,Arsenal,-33,6.42,H
+Brentford,Forest,8,3.96,H
+Forest,Newcastle,-66,1.21,H
+Chelsea,Tottenham,129,3.33,D
+Arsenal,Chelsea,90,2.86,H
+Man City,Man United,161,2.2,H
+Fulham,Sunderland,235,5.24,H
+Burnley,Arsenal,-263,-8.75,A
+Chelsea,Crystal Palace,68,1.23,H
+Crystal Palace,Wolves,99,-8.01,H
+Crystal Palace,Forest,32,8.01,H
+Brighton,Chelsea,-76,-2.36,A
+Aston Villa,Burnley,143,6.34,H
+Arsenal,West Ham,243,10.52,D
+Forest,Burnley,73,2.62,H
+Brighton,Crystal Palace,-8,5.66,H
+Crystal Palace,Bournemouth,27,-4.56,H
+Newcastle,West Ham,119,12.91,H
+Leeds,Chelsea,-181,1.25,D
+Everton,Aston Villa,-79,-1.84,A
+Brentford,West Ham,61,6.9,H
+Aston Villa,Chelsea,-30,-5.72,A
+Wolves,West Ham,-14,-1.64,H
+Burnley,Bournemouth,-78,4.64,D
+Liverpool,Sunderland,446,-0.38,H
+Leeds,Liverpool,-271,-4.71,A
+Fulham,Leeds,60,3.31,H
+Arsenal,Aston Villa,120,9.55,A
+West Ham,Liverpool,-243,-12.89,A
+Man City,Tottenham,186,10.39,D
+Arsenal,Forest,190,0.17,A
+Man City,Wolves,224,4.46,H
+Bournemouth,Man City,-152,-8.96,A
+Everton,Arsenal,-199,-6.83,D
+Brentford,Man United,12,1.85,A
+Man City,Burnley,230,-1.73,H
+Chelsea,Brentford,92,6.04,H
+Burnley,West Ham,-20,-2.95,A
+Sunderland,Leeds,-175,-9.38,H
+West Ham,Burnley,20,-1.61,D
+Man City,Forest,157,4.83,H
+Wolves,Fulham,-46,-2.7,D
+Fulham,Forest,-21,-0.6,A
+Forest,Fulham,21,3.1,D
+Man City,Man United,161,6.46,H
+Sunderland,Forest,-256,-4.13,H
+Brentford,Brighton,-16,-4.66,H
+Liverpool,Fulham,211,4.6,H
+Aston Villa,West Ham,123,3.59,H
+Brentford,Leeds,89,-4.13,H
+Arsenal,Everton,199,0.57,H
+Crystal Palace,Man City,-125,-6.34,H
+Bournemouth,Man United,9,-0.65,A
+Leeds,Crystal Palace,-113,-6.75,H
+Arsenal,Liverpool,0,2.83,H
+Man United,Arsenal,-194,-11.3,A
+Leeds,Man United,-77,-8.19,H
+Wolves,Leeds,14,-0.85,A
+Leeds,Forest,-81,-3.05,H
+Chelsea,Brentford,92,-3.62,D
+Wolves,Arsenal,-257,-7.26,A
+Sunderland,Fulham,-235,-8.04,A
+Crystal Palace,Arsenal,-158,-5.07,A
+Bournemouth,Wolves,72,1.66,D
+Forest,Wolves,67,-0.36,H
+Bournemouth,Sunderland,261,8.83,H
+Newcastle,Arsenal,-124,-1.49,A
+Sunderland,Chelsea,-356,-9.91,A
+Sunderland,Newcastle,-322,-4.99,A
+Brighton,West Ham,77,1.62,H
+Wolves,Aston Villa,-137,1.74,H
+Brighton,Burnley,97,0.83,H
+West Ham,Chelsea,-153,0.34,H
+Man United,Liverpool,-194,-4.71,D
+Bournemouth,Aston Villa,-65,3.74,H
+Man City,West Ham,210,11.16,H
+Fulham,Everton,-12,0.49,D
+Crystal Palace,Brighton,8,-0.89,D
+Aston Villa,Fulham,91,4.64,D
+Chelsea,Everton,109,1.84,H
+Sunderland,Man United,-252,0.98,H
+Man City,Forest,157,4.49,D
+West Ham,Man City,-210,-6.77,A
+Burnley,Newcastle,-139,-4.36,A
+Liverpool,Forest,190,-0.04,D
+Man United,Man City,-161,-1.32,A
+Man United,Bournemouth,-9,-3.59,A
+Brighton,Man City,-133,0.74,A
+Fulham,West Ham,32,-4.06,A
+Brentford,Man City,-149,-4.17,H
+Brentford,Arsenal,-182,-0.84,H
+Brentford,Everton,17,-8.1,H
+Wolves,Aston Villa,-137,4.95,D
+Everton,Brighton,-33,-2.19,A
+Brighton,Crystal Palace,-8,0.4,H
+Leeds,Aston Villa,-151,-1.09,H
+Wolves,West Ham,-14,2.48,A
+Leeds,Fulham,-60,-0.38,H
+Tottenham,Aston Villa,-99,1.64,A
+Brighton,Fulham,45,2.74,H
+West Ham,Tottenham,-24,6.33,H
+Crystal Palace,Forest,32,2.88,H
+Newcastle,Man United,70,8.88,H
+Bournemouth,Leeds,86,5.26,H
+Sunderland,Bournemouth,-261,-14.04,D
+Man United,Brighton,-28,10.03,H
+Brighton,Forest,24,-1.7,H
+Bournemouth,Wolves,72,7.73,D
+Newcastle,Tottenham,95,1.47,H
+Fulham,Arsenal,-211,1.66,D
+Brighton,Bournemouth,19,-2.09,H
+Man United,Tottenham,25,3.13,A
+Brighton,Aston Villa,-46,-1.92,A
+Crystal Palace,Sunderland,288,9.39,A
+Sunderland,Wolves,-189,-2.24,A
+Crystal Palace,Wolves,99,6.57,H
+Arsenal,Brentford,182,-3.99,D
+Brighton,Man United,28,0.08,H
+Forest,Leeds,81,3.99,A
+Arsenal,Everton,199,6.69,H
+Crystal Palace,Burnley,105,5.83,H
+Chelsea,Brighton,76,-0.36,A
+Forest,Brentford,-8,-0.08,A
+Tottenham,Fulham,-8,4.52,A
+Sunderland,West Ham,-203,-14.14,H
+Brighton,West Ham,77,3.85,H
+Burnley,Crystal Palace,-105,-3.32,H
+Aston Villa,Sunderland,326,0.66,H
+West Ham,Liverpool,-243,-2.4,D
+Man United,Bournemouth,-9,4.68,H
+West Ham,Everton,-44,3.5,A
+West Ham,Arsenal,-243,-7.1,H
+Forest,Bournemouth,-5,3.38,D
+Newcastle,Man United,70,5.86,A
+Forest,Everton,9,-0.12,D
+Wolves,Man City,-224,-6.34,D
+Sunderland,Newcastle,-322,-7.91,H
+Leeds,Aston Villa,-151,1.33,H
+Chelsea,Everton,109,3.42,D
+Man United,Crystal Palace,-36,-5.26,D
+Man City,Man United,161,-4.61,H
+Fulham,Tottenham,8,3.53,A
+Sunderland,West Ham,-203,-6.38,A
+Arsenal,Chelsea,90,3.05,A
+Fulham,Leeds,60,5.84,H
+Leeds,Chelsea,-181,-9.88,A
+Wolves,Liverpool,-257,-4.05,H
+Brighton,Liverpool,-166,-4.31,H
+Man City,Aston Villa,87,3.19,A
+Leeds,Burnley,-8,4.72,A
+Leeds,Aston Villa,-151,-7.34,A
+Man United,Fulham,17,2.62,H
+Sunderland,Brentford,-264,-0.77,H
+Liverpool,Fulham,211,3.55,D
+Everton,Brentford,-17,-1.06,A
+Liverpool,Chelsea,90,2.97,H
+Leeds,Bournemouth,-86,-0.69,H
+Fulham,Man United,-17,1.82,D
+Leeds,Forest,-81,0.68,A
+Man United,Newcastle,-70,-4.95,D
+Arsenal,West Ham,243,10.52,H
+Liverpool,Man United,194,9.55,A
+Crystal Palace,Newcastle,-34,-0.27,H
+Tottenham,Brentford,-37,-7.08,D
+Chelsea,Man City,-57,-2.14,D
+Burnley,Leeds,8,1.02,D
+Aston Villa,West Ham,123,-1.73,A
+Bournemouth,Newcastle,-61,-2.34,D
+Aston Villa,Fulham,91,-3.46,D
+Bournemouth,Fulham,26,2.95,H
+Bournemouth,Everton,14,1.08,D
+Liverpool,Arsenal,0,-6.58,H
+Man United,Burnley,69,3.76,H
+West Ham,Sunderland,203,3.97,H
+Leeds,Sunderland,175,5.84,H
+Crystal Palace,Sunderland,288,5.6,A
+Burnley,Leeds,8,-3.01,A
+Burnley,Tottenham,-44,-3.95,A
+Sunderland,Arsenal,-446,-6.88,D
+Brighton,Bournemouth,19,0.74,D
+Burnley,Aston Villa,-143,-3.28,A
+Man United,Aston Villa,-74,-1.84,D
+Arsenal,Wolves,257,3.14,D
+Newcastle,Wolves,133,1.03,H
+Fulham,Forest,-21,9.4,H
+Chelsea,Tottenham,129,-1.3,D
+Brentford,Man City,-149,-6.24,H
+West Ham,Aston Villa,-123,9.76,H
+Man City,Burnley,230,5.31,H
+Bournemouth,Man City,-152,-7.56,H
+Aston Villa,Forest,70,5.42,H
+Forest,Bournemouth,-5,-3.74,A
+Aston Villa,Tottenham,99,6.93,H
+Sunderland,Wolves,-189,-5.63,A
+Arsenal,West Ham,243,4.8,H
+Sunderland,Fulham,-235,1.84,H
+West Ham,Brighton,-77,-0.35,H
+Burnley,Everton,-64,2.95,A
+Burnley,Sunderland,183,4.86,H
+Chelsea,Everton,109,-0.24,A
+Leeds,Bournemouth,-86,-0.04,H
+Man United,Newcastle,-70,3.13,A
+Sunderland,Forest,-256,-3.32,A
+Burnley,Brighton,-97,5.36,A
+Man United,Everton,5,3.55,H
+Brighton,Liverpool,-166,-1.33,A
+Man City,Chelsea,57,2.41,H
+Man City,West Ham,210,5.69,D
+Brighton,Arsenal,-166,-7.91,A
+Wolves,Brentford,-75,-1.82,D
+Forest,Brentford,-8,0.72,H
+Bournemouth,Brentford,-3,-1.74,A
+Aston Villa,West Ham,123,3.63,H
+Man United,Aston Villa,-74,-1.35,D
+Everton,West Ham,44,4.18,D
+Sunderland,Aston Villa,-326,-0.58,A
+Tottenham,Brighton,-53,-0.64,D
+Everton,Man United,-5,-5.54,A
+Leeds,Burnley,-8,7.04,H
+Brentford,Aston Villa,-62,-1.78,A
+Leeds,Man United,-77,-1.82,A
+Brighton,Arsenal,-166,-3.55,A
+Man City,Arsenal,-33,-3.1,A
+Brentford,West Ham,61,7.37,H
+Man City,Tottenham,186,11.07,H
+Man City,Brighton,133,6.04,D
+Burnley,Everton,-64,-2.62,H
+West Ham,Brighton,-77,-0.14,H
+Aston Villa,Newcastle,4,0.36,A
+Wolves,Brentford,-75,-2.22,D
+Arsenal,Crystal Palace,158,5.55,H
+Newcastle,Wolves,133,1.28,A
+Tottenham,Brentford,-37,0.46,H
+Crystal Palace,Aston Villa,-38,-0.13,H
+Tottenham,Forest,-29,1.4,H
+Burnley,West Ham,-20,-3.18,H
+Arsenal,Newcastle,124,5.14,D
+Liverpool,Leeds,271,0.35,D
+Leeds,Bournemouth,-86,-3.95,D
+Forest,Fulham,21,-1.7,H
+Forest,Sunderland,256,-0.43,H
+Bournemouth,Brentford,-3,4.0,H
+Brentford,Chelsea,-92,-6.08,A
+Fulham,Tottenham,8,-2.68,D
+Man United,Liverpool,-194,1.77,H
+Chelsea,Bournemouth,95,-0.47,A
+Everton,Sunderland,247,2.08,D
+Fulham,Brentford,-29,-5.06,H
+Man City,Fulham,178,7.92,H
+Brighton,Forest,24,4.22,D
+West Ham,Aston Villa,-123,0.11,H
+Everton,Crystal Palace,-41,1.54,H
+Man City,Forest,157,5.17,D
+Liverpool,Man City,33,-1.28,A
+Man United,Brentford,-12,-3.62,D
+Bournemouth,Brentford,-3,5.1,D
+Sunderland,Wolves,-189,-0.93,A
+Forest,Man City,-157,-6.25,D
+Leeds,Wolves,-14,-0.12,H
+Aston Villa,Brentford,62,0.32,H
+Brentford,Fulham,29,-3.65,A
+Man City,Man United,161,2.84,D
+Man United,Newcastle,-70,-2.69,A
+Chelsea,Leeds,181,1.61,H
+Bournemouth,Aston Villa,-65,-7.51,D
+Crystal Palace,Liverpool,-158,-11.15,A
+Chelsea,West Ham,153,2.61,H
+Arsenal,Everton,199,4.62,H
+Forest,Burnley,73,-1.02,A
+Leeds,Bournemouth,-86,0.12,A
+Chelsea,Liverpool,-90,-1.99,A
+Brentford,Liverpool,-182,-1.58,H
+Aston Villa,Brentford,62,0.48,D
+Wolves,Aston Villa,-137,-5.64,H
+Brentford,Leeds,89,3.02,H
+Sunderland,Man City,-413,-8.53,A
+Aston Villa,Burnley,143,6.03,H
+Arsenal,Aston Villa,120,-0.96,A
+Man United,Man City,-161,0.83,D
+Fulham,Newcastle,-87,-2.61,H
+Sunderland,Man City,-413,-2.72,H
+Burnley,Brentford,-81,-7.23,A
+Burnley,Crystal Palace,-105,-5.69,H
+Everton,Forest,-9,1.3,H
+Brighton,Forest,24,5.4,H
+Brentford,Liverpool,-182,2.78,H
+Man City,Liverpool,-33,-0.49,D
+Brentford,Chelsea,-92,5.59,D
+Brighton,Chelsea,-76,-2.63,H
+Liverpool,Arsenal,0,4.4,A
+Aston Villa,Crystal Palace,38,-2.64,D
+Forest,Man City,-157,-0.41,A
+Brighton,Crystal Palace,-8,-9.65,H
+Sunderland,Crystal Palace,-288,-7.56,A
+Bournemouth,Sunderland,261,6.74,H
+Sunderland,Forest,-256,-8.14,A
+Fulham,Crystal Palace,-53,0.66,H
+Liverpool,Aston Villa,120,6.97,A
+Aston Villa,Brentford,62,0.12,H
+Tottenham,Liverpool,-219,-10.04,A
+Forest,Bournemouth,-5,-2.07,A
+Crystal Palace,Leeds,113,-1.75,H
+Forest,Brighton,-24,-0.76,H
+Leeds,Man City,-238,-6.07,D
+Brighton,Tottenham,53,0.6,A
+Liverpool,Man City,33,7.35,D
+Crystal Palace,Chelsea,-68,-3.87,D
+Leeds,Man City,-238,0.01,H
+West Ham,Burnley,20,-3.87,A
+Wolves,Sunderland,189,2.69,H
+Leeds,Man United,-77,2.12,H
+Man City,Everton,166,8.16,H
+Newcastle,Everton,75,-0.59,H
+Arsenal,Everton,199,7.18,D
+Liverpool,Forest,190,4.89,D
+Wolves,Sunderland,189,1.83,H
+Leeds,Tottenham,-52,0.67,H
+Chelsea,Arsenal,-90,5.72,A
+Tottenham,Brighton,-53,0.32,D
+Forest,Sunderland,256,9.02,H
+Arsenal,Brentford,182,6.58,H
+Leeds,Aston Villa,-151,-10.57,A
+Burnley,Arsenal,-263,-3.05,A
+Man United,Everton,5,-3.94,D
+Tottenham,Man United,-25,-3.23,H
+Brighton,Brentford,16,9.13,D
+West Ham,Man City,-210,-7.01,H
+Brentford,Brighton,-16,-3.44,A
+Sunderland,Brentford,-264,-1.27,D
+Arsenal,Leeds,271,0.18,H
+Chelsea,Crystal Palace,68,-0.46,H
+Sunderland,Man City,-413,-3.13,H
+Newcastle,Brentford,58,1.88,H
+Crystal Palace,Sunderland,288,-2.15,H
+West Ham,Bournemouth,-58,1.04,A
+Chelsea,Brighton,76,0.63,A
+Forest,Fulham,21,6.47,H
+Newcastle,Everton,75,-1.33,H
+Chelsea,Newcastle,34,5.22,H
+Sunderland,Wolves,-189,3.91,D
+Chelsea,Man United,104,-0.45,H
+Arsenal,Forest,190,3.23,A
+Fulham,Brentford,-29,0.54,A
+Burnley,Leeds,8,-3.23,H
+Man City,Brighton,133,5.34,D
+Tottenham,Man United,-25,-1.77,D
+Forest,Everton,9,-0.8,H
+Wolves,Tottenham,-38,-1.12,D
+Man City,Burnley,230,5.73,H
+Sunderland,Man City,-413,-2.83,H
+Everton,Forest,-9,-2.53,A
+Wolves,Forest,-67,-3.53,A
+Brighton,Chelsea,-76,-1.58,H
+Leeds,Fulham,-60,-1.36,D
+Everton,Man City,-166,-6.84,A
+Man City,Bournemouth,152,4.69,H
+Leeds,Crystal Palace,-113,-8.85,A
+West Ham,Chelsea,-153,-6.33,A
+Crystal Palace,Wolves,99,0.76,H
+Forest,Aston Villa,-70,-5.81,A
+Brighton,Newcastle,-42,5.89,D
+Forest,Burnley,73,2.21,D
+Sunderland,Burnley,-183,-3.19,D
+Burnley,Liverpool,-263,-4.87,H
+Aston Villa,Newcastle,4,0.06,H
+Sunderland,Tottenham,-227,-9.36,A
+Brentford,West Ham,61,1.12,D
+Tottenham,Sunderland,227,1.65,D
+West Ham,Man United,-49,-2.56,D
+Bournemouth,Liverpool,-185,-14.17,H
+Bournemouth,Burnley,78,-3.38,H
+Bournemouth,Chelsea,-95,4.5,A
+Burnley,Man City,-230,-1.22,A
+Brighton,Fulham,45,6.17,D
+Newcastle,Everton,75,7.74,H
+Brighton,Arsenal,-166,-0.94,D
+Chelsea,Tottenham,129,2.34,A
+Brighton,Man United,28,-3.73,H
+Man City,Newcastle,91,6.33,H
+Arsenal,Fulham,211,5.42,H
+Tottenham,Brentford,-37,9.43,D
+Arsenal,Man United,194,1.79,A
+Man United,Bournemouth,-9,7.62,A
+West Ham,Brighton,-77,-2.49,A
+Tottenham,Crystal Palace,-61,3.55,H
+Brentford,Fulham,29,7.51,H
+Chelsea,Forest,100,-0.77,A
+Leeds,Man United,-77,-4.55,D
+Wolves,Man United,-63,-6.29,A
+Everton,Aston Villa,-79,-6.07,A
+Arsenal,Leeds,271,7.64,H
+Liverpool,Man United,194,1.65,H
+Crystal Palace,Tottenham,61,1.41,D
+Chelsea,Burnley,173,5.22,H
+Burnley,Leeds,8,-7.19,H
+Aston Villa,Fulham,91,7.33,D
+Newcastle,West Ham,119,2.48,H
+Sunderland,Bournemouth,-261,-1.77,D
+Wolves,Tottenham,-38,1.35,D
+Aston Villa,Crystal Palace,38,6.61,D
+Brighton,Tottenham,53,1.41,D
+Forest,Arsenal,-190,-11.7,A
+Fulham,Leeds,60,1.99,A
+Leeds,Aston Villa,-151,-1.22,D
+Burnley,Fulham,-52,-5.42,H
+Sunderland,Liverpool,-446,-5.32,A
+Liverpool,Chelsea,90,1.58,H
+Aston Villa,Sunderland,326,1.1,D
+Man United,Wolves,63,4.85,D
+Liverpool,Aston Villa,120,1.65,H
+Brighton,Man City,-133,-4.67,A
+Chelsea,Wolves,167,2.53,H
+Leeds,Sunderland,175,7.21,A
+Arsenal,Chelsea,90,1.99,H
+Man City,Fulham,178,2.61,A
+Chelsea,Newcastle,34,-0.75,H
+Man City,Tottenham,186,7.38,D
+Man United,Brentford,-12,5.04,A
+Brighton,Man City,-133,-1.67,D
+Leeds,Crystal Palace,-113,0.63,H
+Newcastle,Forest,66,4.68,D
+Forest,West Ham,53,-4.22,A
+Fulham,Liverpool,-211,-8.66,D
+Everton,Sunderland,247,4.85,H
+West Ham,Everton,-44,-4.21,A
+Aston Villa,Burnley,143,-1.67,H
+Forest,Leeds,81,-5.14,D
+Wolves,Chelsea,-167,-9.76,D
+Burnley,Arsenal,-263,-7.87,H
+Everton,West Ham,44,0.81,A
+Fulham,Chelsea,-121,-5.98,D
+Burnley,Man City,-230,-4.22,A
+Everton,Bournemouth,-14,-1.95,D
+Leeds,Arsenal,-271,1.38,D
+Man City,West Ham,210,1.93,H
+Crystal Palace,Forest,32,3.74,H
+Man City,Chelsea,57,2.21,A
+Arsenal,Crystal Palace,158,-0.71,D
+Bournemouth,Fulham,26,0.41,A
+Aston Villa,Chelsea,-30,-5.39,D
+Brentford,Forest,8,-0.31,H
+Brentford,Liverpool,-182,-6.09,H
+Everton,Crystal Palace,-41,0.11,A
+Leeds,Aston Villa,-151,-7.39,D
+Wolves,Fulham,-46,-0.62,D
+Brighton,Leeds,105,3.78,H
+Crystal Palace,Man City,-125,0.74,D
+West Ham,Burnley,20,-2.36,D
+Man City,Fulham,178,4.66,H
+Forest,Sunderland,256,5.56,A
+Brentford,Leeds,89,7.47,H
+Chelsea,Man City,-57,-7.05,D
+Everton,Tottenham,20,-3.15,H
+Crystal Palace,Man United,36,11.93,D
+Chelsea,Man City,-57,-2.77,D
+Fulham,Newcastle,-87,-10.49,D
+Chelsea,Leeds,181,0.77,D
+Fulham,Forest,-21,-11.49,D
+Chelsea,Crystal Palace,68,1.96,H
+Brentford,Crystal Palace,-24,2.52,D
+Wolves,Liverpool,-257,-8.48,H
+Aston Villa,Newcastle,4,-1.8,A
+West Ham,Chelsea,-153,0.97,A
+Tottenham,Man United,-25,-7.37,A
+Leeds,Sunderland,175,-1.51,A
+Chelsea,Leeds,181,3.73,D
+Tottenham,Newcastle,-95,-4.82,D
+Leeds,Bournemouth,-86,-2.42,H
+West Ham,Chelsea,-153,-8.46,D
+Chelsea,Fulham,121,4.23,A
+Wolves,Newcastle,-133,-3.03,A
+Man City,Fulham,178,5.26,D
+Man United,Newcastle,-70,-0.22,H
+Bournemouth,Leeds,86,3.31,H
+Forest,Leeds,81,-3.05,A
+Forest,Crystal Palace,-32,1.02,H
+Liverpool,Brentford,182,2.56,H
+Forest,Wolves,67,1.3,H
+Leeds,Chelsea,-181,1.1,H
+Brentford,Fulham,29,-2.44,D
+Newcastle,Fulham,87,7.08,A
+Sunderland,Tottenham,-227,0.38,A
+Arsenal,Aston Villa,120,6.36,H
+Bournemouth,Tottenham,34,-2.74,D
+Forest,Everton,9,-8.43,A
+Bournemouth,Burnley,78,5.83,H
+Leeds,Chelsea,-181,-1.88,D
+Brentford,Everton,17,-2.64,D
+Sunderland,Wolves,-189,-0.89,H
+Arsenal,Newcastle,124,0.57,H
+Tottenham,Liverpool,-219,-4.34,A
+Man United,Arsenal,-194,-0.34,A
+Aston Villa,Tottenham,99,-2.1,H
+Aston Villa,Everton,79,1.86,H
+Tottenham,Chelsea,-129,0.2,A
+Everton,Arsenal,-199,-4.12,A
+Everton,Tottenham,20,5.39,D
+Arsenal,Aston Villa,120,6.21,H
+Man United,Bournemouth,-9,-0.24,A
+Sunderland,Arsenal,-446,-15.0,A
+Liverpool,Sunderland,446,3.85,H
+Bournemouth,Forest,5,3.18,H
+Bournemouth,Leeds,86,-4.13,D
+Burnley,Chelsea,-173,-4.3,A
+Newcastle,Aston Villa,-4,1.29,A
+Bournemouth,Everton,14,6.37,A
+Tottenham,Everton,-20,-3.0,D
+Arsenal,West Ham,243,0.24,H
+Wolves,Leeds,14,0.21,D
+Wolves,Everton,-58,0.26,A
+Tottenham,Man City,-186,-4.56,H
+Everton,Crystal Palace,-41,2.77,H
+Tottenham,Leeds,52,-1.4,D
+West Ham,Forest,-53,-0.3,D
+Leeds,Burnley,-8,1.62,A
+Brentford,Man United,12,-1.18,H
+Bournemouth,Liverpool,-185,-2.15,D
+Everton,Bournemouth,-14,0.39,H
+Chelsea,Wolves,167,8.26,H
+Burnley,Fulham,-52,-0.51,A
+West Ham,Man City,-210,-2.78,D
+Everton,Aston Villa,-79,-3.68,D
+Crystal Palace,Burnley,105,0.45,H
+Crystal Palace,Sunderland,288,11.04,H
+Brentford,West Ham,61,4.34,A
+Fulham,Arsenal,-211,-9.25,A

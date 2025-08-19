@@ -1,0 +1,382 @@
+,,,
+Round Number,Location,Home Team,Away Team
+1,Anfield,7,1
+1,Villa Park,495,9
+1,American Express Stadium,2,502
+1,Stadium of Light,500,14
+1,Tottenham Hotspur Stadium,15,8
+1,Molineux Stadium,497,12
+1,The City Ground,487,489
+1,Stamford Bridge,17,3
+1,Old Trafford,19,18
+1,Elland Road,1131,20
+2,London Stadium,14,17
+2,Etihad Stadium,12,15
+2,Vitality Stadium,1,497
+2,Gtech Community Stadium,489,495
+2,Turf Moor,8,500
+2,Emirates Stadium,18,1131
+2,Selhurst Park,3,487
+2,Hill Dickinson Stadium,20,2
+2,Craven Cottage,502,19
+2,St. James' Park,9,7
+3,Stamford Bridge,17,502
+3,Old Trafford,19,8
+3,Stadium of Light,500,489
+3,Tottenham Hotspur Stadium,15,1
+3,Molineux Stadium,497,20
+3,Elland Road,1131,9
+3,American Express Stadium,2,12
+3,The City Ground,487,14
+3,Anfield,7,18
+3,Villa Park,495,3
+4,Emirates Stadium,18,487
+4,Vitality Stadium,1,2
+4,Selhurst Park,3,500
+4,Hill Dickinson Stadium,20,495
+4,Craven Cottage,502,1131
+4,St. James' Park,9,497
+4,London Stadium,14,15
+4,Gtech Community Stadium,489,17
+4,Turf Moor,8,7
+4,Etihad Stadium,12,19
+5,Anfield,7,20
+5,Vitality Stadium,1,9
+5,American Express Stadium,2,15
+5,Turf Moor,8,487
+5,London Stadium,14,3
+5,Molineux Stadium,497,1131
+5,Old Trafford,19,17
+5,Craven Cottage,502,489
+5,Stadium of Light,500,495
+5,Emirates Stadium,18,12
+6,Gtech Community Stadium,489,19
+6,Villa Park,495,502
+6,Stamford Bridge,17,2
+6,Selhurst Park,3,7
+6,Elland Road,1131,1
+6,Etihad Stadium,12,8
+6,The City Ground,487,500
+6,Tottenham Hotspur Stadium,15,497
+6,St. James' Park,9,18
+6,Hill Dickinson Stadium,20,14
+7,Emirates Stadium,18,14
+7,Villa Park,495,8
+7,Vitality Stadium,1,502
+7,Gtech Community Stadium,489,12
+7,Stamford Bridge,17,7
+7,Hill Dickinson Stadium,20,3
+7,Elland Road,1131,15
+7,Old Trafford,19,500
+7,St. James' Park,9,487
+7,Molineux Stadium,497,2
+8,American Express Stadium,2,9
+8,Turf Moor,8,1131
+8,Selhurst Park,3,1
+8,Craven Cottage,502,18
+8,Anfield,7,19
+8,Etihad Stadium,12,20
+8,The City Ground,487,17
+8,Stadium of Light,500,497
+8,Tottenham Hotspur Stadium,15,495
+8,London Stadium,14,489
+9,Emirates Stadium,18,3
+9,Villa Park,495,12
+9,Vitality Stadium,1,487
+9,Gtech Community Stadium,489,7
+9,Stamford Bridge,17,500
+9,Hill Dickinson Stadium,20,15
+9,Elland Road,1131,14
+9,Old Trafford,19,2
+9,St. James' Park,9,502
+9,Molineux Stadium,497,8
+10,American Express Stadium,2,1131
+10,Turf Moor,8,18
+10,Selhurst Park,3,489
+10,Craven Cottage,502,497
+10,Anfield,7,495
+10,Etihad Stadium,12,1
+10,The City Ground,487,19
+10,Stadium of Light,500,20
+10,Tottenham Hotspur Stadium,15,17
+10,London Stadium,14,9
+11,Villa Park,495,1
+11,Gtech Community Stadium,489,9
+11,Stamford Bridge,17,497
+11,Selhurst Park,3,2
+11,Hill Dickinson Stadium,20,502
+11,Etihad Stadium,12,7
+11,The City Ground,487,1131
+11,Stadium of Light,500,18
+11,Tottenham Hotspur Stadium,15,19
+11,London Stadium,14,8
+12,Emirates Stadium,18,15
+12,Vitality Stadium,1,14
+12,American Express Stadium,2,489
+12,Turf Moor,8,17
+12,Craven Cottage,502,500
+12,Elland Road,1131,495
+12,Anfield,7,487
+12,Old Trafford,19,20
+12,St. James' Park,9,12
+12,Molineux Stadium,497,3
+13,Villa Park,495,497
+13,Gtech Community Stadium,489,8
+13,Stamford Bridge,17,18
+13,Selhurst Park,3,19
+13,Hill Dickinson Stadium,20,9
+13,Etihad Stadium,12,1131
+13,The City Ground,487,2
+13,Stadium of Light,500,1
+13,Tottenham Hotspur Stadium,15,502
+13,London Stadium,14,7
+14,Emirates Stadium,18,489
+14,Vitality Stadium,1,20
+14,American Express Stadium,2,495
+14,Turf Moor,8,3
+14,Craven Cottage,502,12
+14,Elland Road,1131,17
+14,Anfield,7,500
+14,Old Trafford,19,14
+14,St. James' Park,9,15
+14,Molineux Stadium,497,487
+15,Villa Park,495,18
+15,Vitality Stadium,1,17
+15,American Express Stadium,2,14
+15,Hill Dickinson Stadium,20,487
+15,Craven Cottage,502,3
+15,Elland Road,1131,7
+15,Etihad Stadium,12,500
+15,St. James' Park,9,8
+15,Tottenham Hotspur Stadium,15,489
+15,Molineux Stadium,497,19
+16,Emirates Stadium,18,497
+16,Gtech Community Stadium,489,1131
+16,Turf Moor,8,502
+16,Stamford Bridge,17,20
+16,Selhurst Park,3,12
+16,Anfield,7,2
+16,Old Trafford,19,1
+16,The City Ground,487,15
+16,Stadium of Light,500,9
+16,London Stadium,14,495
+17,Villa Park,495,19
+17,Vitality Stadium,1,8
+17,American Express Stadium,2,500
+17,Hill Dickinson Stadium,20,18
+17,Craven Cottage,502,487
+17,Elland Road,1131,3
+17,Etihad Stadium,12,14
+17,St. James' Park,9,17
+17,Tottenham Hotspur Stadium,15,7
+17,Molineux Stadium,497,489
+18,Emirates Stadium,18,2
+18,Gtech Community Stadium,489,1
+18,Turf Moor,8,20
+18,Stamford Bridge,17,495
+18,Selhurst Park,3,15
+18,Anfield,7,497
+18,Old Trafford,19,9
+18,The City Ground,487,12
+18,Stadium of Light,500,1131
+18,London Stadium,14,502
+19,Emirates Stadium,18,495
+19,Gtech Community Stadium,489,15
+19,Turf Moor,8,9
+19,Stamford Bridge,17,1
+19,Selhurst Park,3,502
+19,Anfield,7,1131
+19,Old Trafford,19,497
+19,The City Ground,487,20
+19,Stadium of Light,500,12
+19,London Stadium,14,2
+20,Villa Park,495,487
+20,Vitality Stadium,1,18
+20,American Express Stadium,2,8
+20,Hill Dickinson Stadium,20,489
+20,Craven Cottage,502,7
+20,Elland Road,1131,19
+20,Etihad Stadium,12,17
+20,St. James' Park,9,3
+20,Tottenham Hotspur Stadium,15,500
+20,Molineux Stadium,497,14
+21,Emirates Stadium,18,7
+21,Vitality Stadium,1,15
+21,Gtech Community Stadium,489,500
+21,Turf Moor,8,19
+21,Selhurst Park,3,495
+21,Hill Dickinson Stadium,20,497
+21,Craven Cottage,502,17
+21,Etihad Stadium,12,2
+21,St. James' Park,9,1131
+21,London Stadium,14,487
+22,Villa Park,495,20
+22,American Express Stadium,2,1
+22,Stamford Bridge,17,489
+22,Elland Road,1131,502
+22,Anfield,7,8
+22,Old Trafford,19,12
+22,The City Ground,487,18
+22,Stadium of Light,500,3
+22,Tottenham Hotspur Stadium,15,14
+22,Molineux Stadium,497,9
+23,Emirates Stadium,18,19
+23,Vitality Stadium,1,7
+23,Gtech Community Stadium,489,487
+23,Turf Moor,8,15
+23,Selhurst Park,3,17
+23,Hill Dickinson Stadium,20,1131
+23,Craven Cottage,502,2
+23,Etihad Stadium,12,497
+23,St. James' Park,9,495
+23,London Stadium,14,500
+24,Villa Park,495,489
+24,American Express Stadium,2,20
+24,Stamford Bridge,17,14
+24,Elland Road,1131,18
+24,Anfield,7,9
+24,Old Trafford,19,502
+24,The City Ground,487,3
+24,Stadium of Light,500,8
+24,Tottenham Hotspur Stadium,15,12
+24,Molineux Stadium,497,1
+25,Emirates Stadium,18,500
+25,Vitality Stadium,1,495
+25,American Express Stadium,2,3
+25,Turf Moor,8,14
+25,Craven Cottage,502,20
+25,Elland Road,1131,487
+25,Anfield,7,12
+25,Old Trafford,19,15
+25,St. James' Park,9,489
+25,Molineux Stadium,497,17
+26,Villa Park,495,2
+26,Gtech Community Stadium,489,18
+26,Stamford Bridge,17,1131
+26,Selhurst Park,3,8
+26,Hill Dickinson Stadium,20,1
+26,Etihad Stadium,12,502
+26,The City Ground,487,497
+26,Stadium of Light,500,7
+26,Tottenham Hotspur Stadium,15,9
+26,London Stadium,14,19
+27,Villa Park,495,1131
+27,Gtech Community Stadium,489,2
+27,Stamford Bridge,17,8
+27,Selhurst Park,3,497
+27,Hill Dickinson Stadium,20,19
+27,Etihad Stadium,12,9
+27,The City Ground,487,7
+27,Stadium of Light,500,502
+27,Tottenham Hotspur Stadium,15,18
+27,London Stadium,14,1
+28,Emirates Stadium,18,17
+28,Vitality Stadium,1,500
+28,American Express Stadium,2,487
+28,Turf Moor,8,489
+28,Craven Cottage,502,15
+28,Elland Road,1131,12
+28,Anfield,7,14
+28,Old Trafford,19,3
+28,St. James' Park,9,20
+28,Molineux Stadium,497,495
+29,Villa Park,495,17
+29,Vitality Stadium,1,489
+29,American Express Stadium,2,18
+29,Hill Dickinson Stadium,20,8
+29,Craven Cottage,502,14
+29,Elland Road,1131,500
+29,Etihad Stadium,12,487
+29,St. James' Park,9,19
+29,Tottenham Hotspur Stadium,15,3
+29,Molineux Stadium,497,7
+30,Emirates Stadium,18,20
+30,Gtech Community Stadium,489,497
+30,Turf Moor,8,1
+30,Stamford Bridge,17,9
+30,Selhurst Park,3,1131
+30,Anfield,7,15
+30,Old Trafford,19,495
+30,The City Ground,487,502
+30,Stadium of Light,500,2
+30,London Stadium,14,12
+31,Villa Park,495,14
+31,Vitality Stadium,1,19
+31,American Express Stadium,2,7
+31,Hill Dickinson Stadium,20,17
+31,Craven Cottage,502,8
+31,Elland Road,1131,489
+31,Etihad Stadium,12,3
+31,St. James' Park,9,500
+31,Tottenham Hotspur Stadium,15,487
+31,Molineux Stadium,497,18
+32,Emirates Stadium,18,1
+32,Gtech Community Stadium,489,20
+32,Turf Moor,8,2
+32,Stamford Bridge,17,12
+32,Selhurst Park,3,9
+32,Anfield,7,502
+32,Old Trafford,19,1131
+32,The City Ground,487,495
+32,Stadium of Light,500,15
+32,London Stadium,14,497
+33,Villa Park,495,500
+33,Gtech Community Stadium,489,502
+33,Stamford Bridge,17,19
+33,Selhurst Park,3,14
+33,Hill Dickinson Stadium,20,7
+33,Elland Road,1131,497
+33,Etihad Stadium,12,18
+33,St. James' Park,9,1
+33,The City Ground,487,8
+33,Tottenham Hotspur Stadium,15,2
+34,Emirates Stadium,18,9
+34,Vitality Stadium,1,1131
+34,American Express Stadium,2,17
+34,Turf Moor,8,12
+34,Craven Cottage,502,495
+34,Anfield,7,3
+34,Old Trafford,19,489
+34,Stadium of Light,500,487
+34,London Stadium,14,20
+34,Molineux Stadium,497,15
+35,Emirates Stadium,18,502
+35,Villa Park,495,15
+35,Vitality Stadium,1,3
+35,Gtech Community Stadium,489,14
+35,Stamford Bridge,17,487
+35,Hill Dickinson Stadium,20,12
+35,Elland Road,1131,8
+35,Old Trafford,19,7
+35,St. James' Park,9,2
+35,Molineux Stadium,497,500
+36,American Express Stadium,2,497
+36,Turf Moor,8,495
+36,Selhurst Park,3,20
+36,Craven Cottage,502,1
+36,Anfield,7,17
+36,Etihad Stadium,12,489
+36,The City Ground,487,9
+36,Stadium of Light,500,19
+36,Tottenham Hotspur Stadium,15,1131
+36,London Stadium,14,18
+37,Emirates Stadium,18,8
+37,Villa Park,495,7
+37,Vitality Stadium,1,12
+37,Gtech Community Stadium,489,3
+37,Stamford Bridge,17,15
+37,Hill Dickinson Stadium,20,500
+37,Elland Road,1131,2
+37,Old Trafford,19,487
+37,St. James' Park,9,14
+37,Molineux Stadium,497,502
+38,American Express Stadium,2,19
+38,Turf Moor,8,497
+38,Selhurst Park,3,18
+38,Craven Cottage,502,9
+38,Anfield,7,489
+38,Etihad Stadium,12,495
+38,The City Ground,487,1
+38,Stadium of Light,500,17
+38,Tottenham Hotspur Stadium,15,20
+38,London Stadium,14,1131
