@@ -82,28 +82,31 @@ The final outputs are:
 ---
 ## Results
 
-| Position | Team          | Points | Elo    |
-|----------|---------------|--------|--------|
-| 1        | Liverpool     | 101    | 2091.1 |
-| 2        | Arsenal       | 97     | 2069.8 |
-| 3        | Man City      | 95     | 2060.5 |
-| 4        | Chelsea       | 71     | 1929.8 |
-| 5        | Aston Villa   | 71     | 1906.1 |
-| 6        | Newcastle Utd | 65     | 1870.4 |
-| 7        | Brighton      | 58     | 1861.2 |
-| 8        | Nottm Forest  | 56     | 1829.6 |
-| 9        | Crystal Palace| 55     | 1831.0 |
-| 10       | Brentford     | 54     | 1815.4 |
-| 11       | Tottenham     | 52     | 1809.1 |
-| 12       | Fulham        | 48     | 1794.2 |
-| 13       | Everton       | 47     | 1786.0 |
-| 14       | West Ham      | 44     | 1755.1 |
-| 15       | Wolves        | 41     | 1732.5 |
-| 16       | Burnley       | 40     | 1729.3 |
-| 17       | Leeds         | 36     | 1717.2 |
-| 18       | Bournemouth   | 35     | 1801.5 |
-| 19       | Man Utd       | 34     | 1778.4 |
-| 20       | Sunderland    | 20     | 1521.9 |
+# Premier League 2025/26 Final Table
+
+| Pos | Team           | Points | Elo    |
+|-----|---------------|--------|--------|
+| 1   | Arsenal        | 94     | 2060.7 |
+| 2   | Man City       | 91     | 2030.1 |
+| 3   | Liverpool      | 88     | 2012.9 |
+| 4   | Newcastle Utd  | 75     | 1916.5 |
+| 5   | Aston Villa    | 69     | 1913.5 |
+| 6   | Chelsea        | 60     | 1871.8 |
+| 7   | Man Utd        | 55     | 1814.3 |
+| 8   | Tottenham      | 52     | 1773.6 |
+| 9   | Everton        | 52     | 1786.6 |
+| 10  | Brighton       | 51     | 1806.1 |
+| 11  | West Ham       | 49     | 1776.6 |
+| 12  | Nottm Forest   | 49     | 1791.9 |
+| 13  | Fulham         | 47     | 1771.5 |
+| 14  | Crystal Palace | 46     | 1795.1 |
+| 15  | Bournemouth    | 44     | 1761.5 |
+| 16  | Brentford      | 41     | 1771.4 |
+| 17  | Burnley        | 41     | 1730.2 |
+| 18  | Wolves         | 35     | 1704.6 |
+| 19  | Leeds          | 27     | 1663.6 |
+| 20  | Sunderland     | 19     | 1556.6 |
+
 ---
 ## Limitations
 
